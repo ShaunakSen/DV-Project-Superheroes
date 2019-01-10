@@ -1,101 +1,100 @@
-page_id,name,urlslug,Intelligence,Stength,Speed,Durability,Energy Projection,Fighting Skills,ID,ALIGN,EYE,HAIR,SEX,GSM,ALIVE,APPEARANCES,FIRST APPEARANCE,Year
-1678,Spider-Man,Spider-Man_(Peter_Parker),4,4,3,3,1,4,Secret Identity,Good Characters,Hazel Eyes,Brown Hair,Male Characters,,Living Characters,4043,01/08/62,1962
-7139,Captain America,Captain_America_(Steven_Rogers),3,3,2,3,1,6,Public Identity,Good Characters,Blue Eyes,White Hair,Male Characters,,Living Characters,3360,01/03/41,1941
-64786,Wolverine,Wolverine_(James_%22Logan%22_Howlett),2,4,2,4,1,7,Public Identity,Neutral Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,3061,01/10/74,1974
-1868,Iron Man,Iron_Man_(Anthony_%22Tony%22_Stark),6,6,5,6,6,4,Public Identity,Good Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,2961,01/03/63,1963
-2460,Thor,Thor_(Thor_Odinson),2,7,7,6,6,5,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,2258,01/11/50,1950
-2458,The Thing,Benjamin_Grimm_(Earth-616),3,6,2,6,1,5,Public Identity,Good Characters,Blue Eyes,No Hair,Male Characters,,Living Characters,2255,01/11/61,1961
-2166,Mr Fantastic,Reed_Richards_(Earth-616),6,2,2,5,1,3,Public Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,2072,01/11/61,1961
-1833,Hulk,Hulk_(Robert_Bruce_Banner),6,7,3,7,5,4,Public Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,2017,01/05/62,1962
-29481,Cyclops,Scott_Summers_(Earth-616),3,2,2,2,5,4,Public Identity,Neutral Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,1955,01/09/63,1963
-1837,Human Torch,Jonathan_Storm_(Earth-616),2,2,5,6,5,3,Public Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,1934,01/11/61,1961
-15725,Beast,Henry_McCoy_(Earth-616),5,4,3,4,1,4,Public Identity,Good Characters,Blue Eyes,Blue Hair,Male Characters,,Living Characters,1825,01/09/63,1963
-1863,Invisible Woman,Susan_Storm_(Earth-616),3,2,3,6,5,3,Public Identity,Good Characters,Blue Eyes,Blond Hair,Female Characters,,Living Characters,1713,01/11/61,1961
-7823,Sub-Mariner,Namor_McKenzie_(Earth-616),2,6,3,6,2,4,No Dual Identity,Neutral Characters,Green Eyes,Black Hair,Male Characters,,Living Characters,1528,,
-2614,Storm,Ororo_Munroe_(Earth-616),2,2,3,2,5,4,Public Identity,Good Characters,Blue Eyes,White Hair,Female Characters,,Living Characters,1512,01/05/75,1975
-1803,Hawkeye,Clinton_Barton_(Earth-616),3,2,2,2,1,6,Public Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,1394,01/09/64,1964
-1396,Daredevil,Matthew_Murdock_(Earth-616),3,3,2,2,4,5,Public Identity,Good Characters,Blue Eyes,Red Hair,Male Characters,,Living Characters,1338,01/04/64,1964
-55534,Doctor Strange,Stephen_Strange_(Earth-616),4,2,7,2,6,6,Public Identity,Good Characters,Grey Eyes,Black Hair,Male Characters,,Living Characters,1307,01/07/63,1963
-1978,Mary Jane Watson,Mary_Jane_Watson_(Earth-616),2,2,2,2,1,2,No Dual Identity,Good Characters,Green Eyes,Red Hair,Female Characters,,Living Characters,1304,01/06/65,1965
-1872,John Jonah Jameson,John_Jonah_Jameson_(Earth-616),3,2,2,2,1,3,No Dual Identity,Neutral Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,1266,01/03/63,1963
-35350,Iceman,Robert_Drake_(Earth-616),2,3,3,4,5,4,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,1265,01/09/63,1963
-1557,Hank Pym,Henry_Pym_(Earth-616),6,7,3,3,6,3,Public Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,1237,01/01/62,1962
-65255,Charles Xavier,Charles_Xavier_(Earth-616),5,2,2,2,5,3,Public Identity,Good Characters,Blue Eyes,Bald,Male Characters,,Deceased Characters,1233,01/09/63,1963
-1073,Angel/Archangel,Warren_Worthington_III_(Earth-616),3,2,3,2,1,4,Public Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,1230,01/09/63,1963
-1346,Colossus,Piotr_Rasputin_(Earth-616),2,6,2,6,1,4,Secret Identity,Good Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,1162,01/05/75,1975
-2512,Scarlet Witch,Wanda_Maximoff_(Earth-616),3,2,2,2,6,3,Public Identity,Good Characters,Green Eyes,Brown Hair,Female Characters,,Living Characters,1161,01/03/64,1964
-1671,Nicholas Fury,Nicholas_Fury_(Earth-616),3,2,2,2,1,6,No Dual Identity,Neutral Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,1137,01/05/63,1963
-1976,The Wasp,Janet_van_Dyne_(Earth-616),3,5,3,2,4,4,Public Identity,Good Characters,Blue Eyes,Auburn Hair,Female Characters,,Living Characters,1120,01/06/63,1963
-65219,Jean Grey,Jean_Grey_(Earth-616),3,2,7,7,7,4,Public Identity,Good Characters,Green Eyes,Red Hair,Female Characters,,Deceased Characters,1107,01/09/63,1963
-6545,Black Widow,Natalia_Romanova_(Earth-616),3,3,2,3,3,6,Public Identity,Good Characters,Green Eyes,Red Hair,Female Characters,Bisexual Characters,Living Characters,1050,01/04/64,1964
-2223,Nightcrawler,Kurt_Wagner_(Earth-616),3,2,7,2,1,3,Secret Identity,Good Characters,Yellow Eyes,Blue Hair,Male Characters,,Living Characters,1047,01/05/75,1975
-2414,Vision,Vision_(Earth-616),4,5,3,6,6,3,Secret Identity,Good Characters,Gold Eyes,No Hair,Male Characters,,Living Characters,1007,01/10/68,1968
-8650,Aunt May,May_Reilly_(Earth-616),2,1,1,1,1,1,No Dual Identity,Good Characters,Blue Eyes,Grey Hair,Female Characters,,Living Characters,1000,01/08/62,1962
-2527,Kitty Pryde,Katherine_Pryde_(Earth-616),4,2,2,3,1,5,Secret Identity,Good Characters,Hazel Eyes,Brown Hair,Female Characters,,Living Characters,886,01/01/80,1980
-1970,Captain Marvel,Carol_Danvers_(Earth-616),3,5,5,6,5,4,Public Identity,Good Characters,Blue Eyes,Blond Hair,Female Characters,,Living Characters,881,01/03/68,1968
-37690,She Hulk,Jennifer_Walters_(Earth-616),3,7,3,6,1,4,Public Identity,Good Characters,Green Eyes,Brown Hair,Female Characters,,Living Characters,881,01/02/80,1980
-3765,Black King,Emma_Frost_(Earth-616),4,4,2,5,5,3,Public Identity,Neutral Characters,Blue Eyes,Brown Hair,Female Characters,,Living Characters,880,01/01/80,1980
-2312,Punisher,Frank_Castle_(Earth-616),3,3,2,2,1,6,Public Identity,Neutral Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,878,01/02/74,1974
-1265,Luke Cage,Luke_Cage_(Earth-616),3,4,2,5,1,4,No Dual Identity,Good Characters,Brown Eyes,Black Hair,Male Characters,,Living Characters,856,01/06/72,1972
-1677,Rogue,Rogue_(Anna_Marie)_(Earth-616),7,7,7,7,7,7,Secret Identity,Good Characters,Green Eyes,Auburn Hair,Female Characters,,Living Characters,850,,
-25222,Conan,Conan_(Earth-616),2,5,3,5,1,5,No Dual Identity,Neutral Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,787,01/10/70,1970
-6537,Joseph Robertson,Joseph_Robertson_(Earth-616),3,2,2,2,1,2,No Dual Identity,Good Characters,Brown Eyes,White Hair,Male Characters,,Living Characters,752,01/08/67,1967
-1592,Quicksilver,Pietro_Maximoff_(Earth-616),3,4,5,3,1,4,Public Identity,Good Characters,Blue Eyes,Silver Hair,Male Characters,,Living Characters,740,01/03/64,1964
-1818,Hercules,Hercules_(Earth-616),2,7,2,6,1,4,No Dual Identity,Good Characters,Blue Eyes,Brown Hair,Male Characters,Bisexual Characters,Living Characters,725,01/10/65,1965
-1448,Dr Doom,Victor_von_Doom_(Earth-616),6,4,5,6,6,4,Public Identity,Bad Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,721,01/07/62,1962
-2081,Magneto,Max_Eisenhardt_(Earth-616),5,2,5,2,6,4,Public Identity,Neutral Characters,Grey Eyes,Bald,Male Characters,,Living Characters,709,01/09/63,1963
-2307,Psylocke,Elizabeth_Braddock_(Earth-616),2,3,2,3,5,6,Secret Identity,Neutral Characters,Blue Eyes,Purple Hair,Female Characters,Bisexual Characters,Living Characters,708,01/12/76,1976
-2556,Silver Surfer,Norrin_Radd_(Earth-616),3,7,7,6,7,2,Public Identity,Good Characters,Blue Eyes,Bald,Male Characters,,Living Characters,696,01/03/66,1966
-1740,Green Goblin,Norman_Osborn_(Earth-616),4,4,3,4,3,3,Public Identity,Bad Characters,Blue Eyes,Auburn Hair,Male Characters,,Living Characters,692,01/07/64,1964
-8651,Agent Anti-Venom,Eugene_Thompson_(Earth-616),2,5,1,2,1,3,Secret Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Male Characters,,Living Characters,689,01/08/62,1962
-2009,Wonder Man,Simon_Williams_(Earth-616),4,7,4,6,2,4,Public Identity,Good Characters,Red Eyes,Grey Hair,Male Characters,,Living Characters,686,01/10/64,1964
-1276,Canonball,Samuel_Guthrie_(Earth-616),2,2,4,6,3,4,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,657,01/11/82,1982
-15823,Winter Soldier,James_Buchanan_Barnes_(Earth-616),2,4,2,3,1,6,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,641,01/03/41,1941
-1680,Gambit,Remy_LeBeau_(Earth-616),2,2,2,2,2,4,Secret Identity,Good Characters,Black Eyeballs,Brown Hair,Male Characters,,Living Characters,636,01/07/90,1990
-1866,Iron Fist,Daniel_Rand_(Earth-616),3,2,2,3,3,6,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,618,01/05/74,1974
-32498,Cable,Nathan_Summers_(Earth-616),3,4,7,4,4,6,Public Identity,Neutral Characters,Blue Eyes,White Hair,Male Characters,,Living Characters,612,01/01/86,1986
-1772,Betty Brant,Elizabeth_Brant_(Earth-616),2,2,2,2,1,3,No Dual Identity,Good Characters,Brown Eyes,Brown Hair,Female Characters,,Living Characters,599,01/09/63,1963
-1896,Rick Jones,Richard_Jones_(Earth-616),2,2,2,2,1,4,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,590,01/05/62,1962
-1496,Edwin Jarvis,Edwin_Jarvis_(Earth-616),3,2,2,2,1,3,No Dual Identity,Good Characters,Blue Eyes,White Hair,Male Characters,,Living Characters,567,01/11/64,1964
-1802,Havok,Alexander_Summers_(Earth-616),3,2,2,3,5,3,Public Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,558,01/03/69,1969
-1811,Hellcat,Patricia_Walker_(Earth-616),3,4,2,3,1,5,Secret Identity,Good Characters,Blue Eyes,Red Hair,Female Characters,,Living Characters,550,01/11/44,1944
-1836,Human Torch (Android),Human_Torch_(Android)_(Earth-616),2,3,3,3,5,4,Public Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,548,01/10/39,1939
-2042,Loki,Loki_Laufeyson_(Earth-616),5,5,7,6,6,3,No Dual Identity,Neutral Characters,Green Eyes,Black Hair,Genderfluid Characters,Bisexual Characters,Living Characters,532,01/08/49,1949
-1643,Franklin Nelson,Franklin_Nelson_(Earth-616),3,2,2,2,1,2,No Dual Identity,Good Characters,Blue Eyes,Bald,Male Characters,,Living Characters,528,01/04/64,1964
-1285,Captain Britain,Brian_Braddock_(Earth-616),5,6,4,6,3,4,Public Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,528,01/10/76,1976
-1453,Otto Octavius,Otto_Octavius_(Earth-616),5,4,3,3,1,4,Secret Identity,Neutral Characters,Hazel Eyes,Brown Hair,Male Characters,,Deceased Characters,526,01/07/63,1963
-6194,James Rhodes,James_Rhodes_(Earth-616),3,6,5,6,6,4,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,525,01/01/79,1979
-1487,Dum-Dum Dugan,Timothy_Dugan_(Earth-616),2,2,2,2,1,4,Public Identity,Good Characters,Blue Eyes,Red Hair,Male Characters,,Deceased Characters,517,01/05/63,1963
-1380,Crystal,Crystalia_Amaquelin_(Earth-616),2,2,2,2,4,3,Public Identity,Good Characters,Green Eyes,Strawberry Blond Hair,Female Characters,,Living Characters,512,01/12/65,1965
-1613,Falcon,Samuel_Wilson_(Earth-616),2,2,3,2,1,4,Public Identity,Good Characters,Brown Eyes,Black Hair,Male Characters,,Living Characters,512,01/09/69,1969
-1931,Kingpin,Wilson_Fisk_(Earth-616),3,3,2,2,1,5,Public Identity,Bad Characters,Blue Eyes,Bald,Male Characters,,Living Characters,503,01/07/67,1967
-1596,All-Father Odin,Odin_Borson_(Earth-616),7,6,7,7,7,4,Public Identity,Neutral Characters,Blue Eyes,White Hair,Male Characters,,Living Characters,502,01/10/62,1962
-1409,Deadpool,Wade_Wilson_(Earth-616),2,4,7,4,1,6,Secret Identity,Neutral Characters,Brown Eyes,Bald,Male Characters,Transvestites,Living Characters,500,01/02/91,1991
-1187,Black Knight,Dane_Whitman_(Earth-616),4,2,2,5,4,5,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,478,01/12/67,1967
-1741,Harry Osborn,Harold_Osborn_(Earth-616),5,4,3,4,3,2,No Dual Identity,Good Characters,Blue Eyes,Brown Hair,Male Characters,,Living Characters,474,01/12/65,1965
-68416,Powerhouse,Franklin_Richards_(Earth-616),4,1,2,3,7,2,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,473,01/11/68,1968
-2589,Spider-Woman,Jessica_Drew_(Earth-616),3,5,3,4,5,4,Secret Identity,Good Characters,Green Eyes,Auburn Hair,Female Characters,,Living Characters,471,01/02/77,1977
-2626,Citizen X,Roberto_da_Costa_(Earth-616),3,5,3,3,4,4,Secret Identity,Good Characters,Brown Eyes,Black Hair,Male Characters,,Living Characters,464,01/11/82,1982
-2007,Wolsbane,Rahne_Sinclair_(Earth-616),2,3,3,3,1,3,Secret Identity,Good Characters,Green Eyes,Red Hair,Female Characters,,Living Characters,448,01/11/82,1982
-1130,Red She-Hulk,Elizabeth_Ross_(Earth-616),3,7,3,6,1,3,Public Identity,Good Characters,Blue Eyes,Black Hair,Female Characters,,Living Characters,446,01/05/62,1962
-2278,Polaris,Lorna_Dane_(Earth-616),2,3,5,2,5,3,Secret Identity,Good Characters,Green Eyes,Green Hair,Female Characters,,Living Characters,433,01/10/68,1968
-67048,Kid Colt,Blaine_Colt_(Earth-616),2,2,2,2,1,4,Public Identity,,Blue Eyes,Blond Hair,Male Characters,,Deceased Characters,429,,
-1705,Johnathon Blaze,Johnathon_Blaze_(Earth-616),2,4,3,5,4,2,Secret Identity,Good Characters,Blue Eyes,Reddish Blond Hair,Male Characters,,Living Characters,426,01/08/72,1972
-2550,Lady Sif,Sif_(Earth-616),2,5,7,3,1,5,No Dual Identity,Good Characters,Blue Eyes,Black Hair,Female Characters,,Living Characters,422,01/03/64,1964
-2365,Red Hulk,Red_Hulk_(Thaddeus_Ross),3,7,3,6,2,4,Public Identity,Neutral Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,415,01/05/62,1962
-1900,Jubilee,Jubilation_Lee_(Earth-616),2,4,3,6,5,3,Secret Identity,Good Characters,Brown Eyes,Black Hair,Female Characters,,Living Characters,408,01/05/89,1989
-2420,Volstagg,Volstagg_(Earth-616),2,5,2,6,1,4,Public Identity,Good Characters,Blue Eyes,Red Hair,Male Characters,,Living Characters,406,01/08/65,1965
-1127,Balder the Brave,Balder_Odinson_(Earth-616),2,5,3,3,3,4,Secret Identity,Good Characters,Blue Eyes,Brown Hair,Male Characters,,Deceased Characters,403,01/10/62,1962
-1676,Galactus,Galactus_(Earth-616),7,7,7,7,7,2,Secret Identity,Neutral Characters,Brown Eyes,No Hair,Male Characters,,Living Characters,390,01/03/66,1966
-1395,Moonstar,Danielle_Moonstar_(Earth-616),2,2,2,2,3,4,Secret Identity,Good Characters,Brown Eyes,Black Hair,Female Characters,,Living Characters,388,01/11/82,1982
-2183,Moon Knight,Marc_Spector_(Earth-616),2,3,2,3,1,4,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,387,01/08/75,1975
-1782,Gwen Stacy,Gwendolyne_Stacy_(Earth-616),4,2,2,2,1,1,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Female Characters,,Deceased Characters,384,01/12/65,1965
-2137,Commander Medusa,Medusalith_Amaquelin_(Earth-616),3,3,2,3,1,4,Public Identity,Good Characters,Green Eyes,Red Hair,Female Characters,,Living Characters,382,01/03/65,1965
-2374,Sabretooth,Sabretooth_(Victor_Creed),2,3,2,4,1,6,Secret Identity,Bad Characters,Amber Eyes,Blond Hair,Male Characters,,Living Characters,382,01/08/77,1977
-2077,Magik,Illyana_Rasputina_(Earth-616),4,2,7,3,6,4,Secret Identity,Neutral Characters,Blue Eyes,Blond Hair,Female Characters,,Living Characters,380,01/05/75,1975
-2344,Red Skull,Johann_Shmidt_(Earth-616),5,3,3,3,1,6,Public Identity,Bad Characters,Blue Eyes,Blond Hair,Male Characters,,Deceased Characters,376,01/08/41,1941
-1131,Banshee,Sean_Cassidy_(Earth-616),3,2,4,3,5,4,Secret Identity,Neutral Characters,Green Eyes,Strawberry Blond Hair,Male Characters,,Living Characters,374,01/01/67,1967
-2487,Toro,Thomas_Raymond_(Earth-616),2,2,3,2,5,4,Secret Identity,Good Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,373,01/09/40,1940
-1572,The Watcher,Uatu_(Earth-616),7,7,7,7,7,1,Public Identity,Good Characters,Blue Eyes,Bald,Male Characters,,Deceased Characters,373,01/04/63,1963
-2456,Thanos,Thanos_(Earth-616),6,7,7,6,6,4,No Dual Identity,Bad Characters,Red Eyes,No Hair,Male Characters,,Living Characters,306,01/02/73,1973
-2239,Nova,Richard_Rider_(Earth-616),6,7,7,7,6,4,Public Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Deceased Characters,373,01/09/76,1976
+,page_id,name,urlslug,Intelligence,Stength,Speed,Durability,Energy Projection,Fighting Skills,ID,ALIGN,EYE,HAIR,SEX,GSM,ALIVE,APPEARANCES,FIRST APPEARANCE,Year
+0,1678,Spider-Man (Peter Parker),Spider-Man_(Peter_Parker),4,4,3,3,1,4,Secret Identity,Good Characters,Hazel Eyes,Brown Hair,Male Characters,,Living Characters,4043,1962-08-01,1962.0
+1,7139,Captain America (Steven Rogers),Captain_America_(Steven_Rogers),3,3,2,3,1,6,Public Identity,Good Characters,Blue Eyes,White Hair,Male Characters,,Living Characters,3360,1941-03-01,1941.0
+2,64786,"Wolverine (James \""Logan\"" Howlett)",Wolverine_(James_%22Logan%22_Howlett),2,4,2,4,1,7,Public Identity,Neutral Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,3061,1974-10-01,1974.0
+3,1868,"Iron Man (Anthony \""Tony\"" Stark)",Iron_Man_(Anthony_%22Tony%22_Stark),6,6,5,6,6,4,Public Identity,Good Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,2961,1963-03-01,1963.0
+4,2460,Thor (Thor Odinson),Thor_(Thor_Odinson),2,7,7,6,6,5,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,2258,1950-11-01,1950.0
+5,2458,The Thing,Benjamin_Grimm_(Earth-616),3,6,2,6,1,5,Public Identity,Good Characters,Blue Eyes,No Hair,Male Characters,,Living Characters,2255,1961-11-01,1961.0
+6,2166,Mr Fantastic,Reed_Richards_(Earth-616),6,2,2,5,1,3,Public Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,2072,1961-11-01,1961.0
+7,1833,Hulk (Robert Bruce Banner),Hulk_(Robert_Bruce_Banner),6,7,3,7,5,4,Public Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,2017,1962-05-01,1962.0
+8,29481,Cyclops,Scott_Summers_(Earth-616),3,2,2,2,5,4,Public Identity,Neutral Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,1955,1963-09-01,1963.0
+9,1837,Human Torch,Jonathan_Storm_(Earth-616),2,2,5,6,5,3,Public Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,1934,1961-11-01,1961.0
+10,15725,Beast,Henry_McCoy_(Earth-616),5,4,3,4,1,4,Public Identity,Good Characters,Blue Eyes,Blue Hair,Male Characters,,Living Characters,1825,1963-09-01,1963.0
+11,1863,Invisible Woman,Susan_Storm_(Earth-616),3,2,3,6,5,3,Public Identity,Good Characters,Blue Eyes,Blond Hair,Female Characters,,Living Characters,1713,1961-11-01,1961.0
+12,7823,Sub-Mariner,Namor_McKenzie_(Earth-616),2,6,3,6,2,4,No Dual Identity,Neutral Characters,Green Eyes,Black Hair,Male Characters,,Living Characters,1528,,
+13,2614,Storm,Ororo_Munroe_(Earth-616),2,2,3,2,5,4,Public Identity,Good Characters,Blue Eyes,White Hair,Female Characters,,Living Characters,1512,1975-05-01,1975.0
+14,1803,Hawkeye,Clinton_Barton_(Earth-616),3,2,2,2,1,6,Public Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,1394,1964-09-01,1964.0
+15,1396,Daredevil,Matthew_Murdock_(Earth-616),3,3,2,2,4,5,Public Identity,Good Characters,Blue Eyes,Red Hair,Male Characters,,Living Characters,1338,1964-04-01,1964.0
+16,55534,Doctor Strange,Stephen_Strange_(Earth-616),4,2,7,2,6,6,Public Identity,Good Characters,Grey Eyes,Black Hair,Male Characters,,Living Characters,1307,1963-07-01,1963.0
+17,1978,Mary Jane Watson (Earth-616),Mary_Jane_Watson_(Earth-616),2,2,2,2,1,2,No Dual Identity,Good Characters,Green Eyes,Red Hair,Female Characters,,Living Characters,1304,1965-06-01,1965.0
+18,1872,John Jonah Jameson (Earth-616),John_Jonah_Jameson_(Earth-616),3,2,2,2,1,3,No Dual Identity,Neutral Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,1266,1963-03-01,1963.0
+19,35350,Iceman,Robert_Drake_(Earth-616),2,3,3,4,5,4,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,1265,1963-09-01,1963.0
+20,1557,Hank Pym,Henry_Pym_(Earth-616),6,7,3,3,6,3,Public Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,1237,1962-01-01,1962.0
+21,65255,Charles Xavier (Earth-616),Charles_Xavier_(Earth-616),5,2,2,2,5,3,Public Identity,Good Characters,Blue Eyes,Bald,Male Characters,,Deceased Characters,1233,1963-09-01,1963.0
+22,1073,Angel/Archangel,Warren_Worthington_III_(Earth-616),3,2,3,2,1,4,Public Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,1230,1963-09-01,1963.0
+23,1346,Colossus,Piotr_Rasputin_(Earth-616),2,6,2,6,1,4,Secret Identity,Good Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,1162,1975-05-01,1975.0
+24,2512,Scarlet Witch,Wanda_Maximoff_(Earth-616),3,2,2,2,6,3,Public Identity,Good Characters,Green Eyes,Brown Hair,Female Characters,,Living Characters,1161,1964-03-01,1964.0
+25,1671,Nicholas Fury (Earth-616),Nicholas_Fury_(Earth-616),3,2,2,2,1,6,No Dual Identity,Neutral Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,1137,1963-05-01,1963.0
+26,1976,The Wasp,Janet_van_Dyne_(Earth-616),3,5,3,2,4,4,Public Identity,Good Characters,Blue Eyes,Auburn Hair,Female Characters,,Living Characters,1120,1963-06-01,1963.0
+27,65219,Jean Grey (Earth-616),Jean_Grey_(Earth-616),3,2,7,7,7,4,Public Identity,Good Characters,Green Eyes,Red Hair,Female Characters,,Deceased Characters,1107,1963-09-01,1963.0
+28,6545,Black Widow,Natalia_Romanova_(Earth-616),3,3,2,3,3,6,Public Identity,Good Characters,Green Eyes,Red Hair,Female Characters,Bisexual Characters,Living Characters,1050,1964-04-01,1964.0
+29,2223,Nightcrawler,Kurt_Wagner_(Earth-616),3,2,7,2,1,3,Secret Identity,Good Characters,Yellow Eyes,Blue Hair,Male Characters,,Living Characters,1047,1975-05-01,1975.0
+30,2414,Vision (Earth-616),Vision_(Earth-616),4,5,3,6,6,3,Secret Identity,Good Characters,Gold Eyes,No Hair,Male Characters,,Living Characters,1007,1968-10-01,1968.0
+31,8650,Aunt May,May_Reilly_(Earth-616),2,1,1,1,1,1,No Dual Identity,Good Characters,Blue Eyes,Grey Hair,Female Characters,,Living Characters,1000,1962-08-01,1962.0
+32,2527,Kitty Pryde,Katherine_Pryde_(Earth-616),4,2,2,3,1,5,Secret Identity,Good Characters,Hazel Eyes,Brown Hair,Female Characters,,Living Characters,886,1980-01-01,1980.0
+33,1970,Captain Marvel,Carol_Danvers_(Earth-616),3,5,5,6,5,4,Public Identity,Good Characters,Blue Eyes,Blond Hair,Female Characters,,Living Characters,881,1968-03-01,1968.0
+34,37690,She Hulk,Jennifer_Walters_(Earth-616),3,7,3,6,1,4,Public Identity,Good Characters,Green Eyes,Brown Hair,Female Characters,,Living Characters,881,1980-02-01,1980.0
+35,3765,Black King,Emma_Frost_(Earth-616),4,4,2,5,5,3,Public Identity,Neutral Characters,Blue Eyes,Brown Hair,Female Characters,,Living Characters,880,1980-01-01,1980.0
+36,2312,Punisher,Frank_Castle_(Earth-616),3,3,2,2,1,6,Public Identity,Neutral Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,878,1974-02-01,1974.0
+37,1265,Luke Cage (Earth-616),Luke_Cage_(Earth-616),3,4,2,5,1,4,No Dual Identity,Good Characters,Brown Eyes,Black Hair,Male Characters,,Living Characters,856,1972-06-01,1972.0
+38,1677,Rogue,Rogue_(Anna_Marie)_(Earth-616),7,7,7,7,7,7,Secret Identity,Good Characters,Green Eyes,Auburn Hair,Female Characters,,Living Characters,850,,
+39,25222,Conan (Earth-616),Conan_(Earth-616),2,5,3,5,1,5,No Dual Identity,Neutral Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,787,1970-10-01,1970.0
+40,6537,Joseph Robertson (Earth-616),Joseph_Robertson_(Earth-616),3,2,2,2,1,2,No Dual Identity,Good Characters,Brown Eyes,White Hair,Male Characters,,Living Characters,752,1967-08-01,1967.0
+41,1592,Quicksilver,Pietro_Maximoff_(Earth-616),3,4,5,3,1,4,Public Identity,Good Characters,Blue Eyes,Silver Hair,Male Characters,,Living Characters,740,1964-03-01,1964.0
+42,1818,Hercules (Earth-616),Hercules_(Earth-616),2,7,2,6,1,4,No Dual Identity,Good Characters,Blue Eyes,Brown Hair,Male Characters,Bisexual Characters,Living Characters,725,1965-10-01,1965.0
+43,1448,Dr Doom,Victor_von_Doom_(Earth-616),6,4,5,6,6,4,Public Identity,Bad Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,721,1962-07-01,1962.0
+44,2081,Magneto,Max_Eisenhardt_(Earth-616),5,2,5,2,6,4,Public Identity,Neutral Characters,Grey Eyes,Bald,Male Characters,,Living Characters,709,1963-09-01,1963.0
+45,2307,Psylocke,Elizabeth_Braddock_(Earth-616),2,3,2,3,5,6,Secret Identity,Neutral Characters,Blue Eyes,Purple Hair,Female Characters,Bisexual Characters,Living Characters,708,1976-12-01,1976.0
+46,2556,Silver Surfer,Norrin_Radd_(Earth-616),3,7,7,6,7,2,Public Identity,Good Characters,Blue Eyes,Bald,Male Characters,,Living Characters,696,1966-03-01,1966.0
+47,1740,Green Goblin,Norman_Osborn_(Earth-616),4,4,3,4,3,3,Public Identity,Bad Characters,Blue Eyes,Auburn Hair,Male Characters,,Living Characters,692,1964-07-01,1964.0
+48,8651,Agent Anti-Venom,Eugene_Thompson_(Earth-616),2,5,1,2,1,3,Secret Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Male Characters,,Living Characters,689,1962-08-01,1962.0
+49,2009,Wonder Man,Simon_Williams_(Earth-616),4,7,4,6,2,4,Public Identity,Good Characters,Red Eyes,Grey Hair,Male Characters,,Living Characters,686,1964-10-01,1964.0
+50,1276,Canonball,Samuel_Guthrie_(Earth-616),2,2,4,6,3,4,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,657,1982-11-01,1982.0
+51,15823,Winter Soldier,James_Buchanan_Barnes_(Earth-616),2,4,2,3,1,6,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,641,1941-03-01,1941.0
+52,1680,Gambit,Remy_LeBeau_(Earth-616),2,2,2,2,2,4,Secret Identity,Good Characters,Black Eyeballs,Brown Hair,Male Characters,,Living Characters,636,1990-07-01,1990.0
+53,1866,Iron Fist,Daniel_Rand_(Earth-616),3,2,2,3,3,6,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,618,1974-05-01,1974.0
+54,32498,Cable,Nathan_Summers_(Earth-616),3,4,7,4,4,6,Public Identity,Neutral Characters,Blue Eyes,White Hair,Male Characters,,Living Characters,612,1986-01-01,1986.0
+55,1772,Betty Brant,Elizabeth_Brant_(Earth-616),2,2,2,2,1,3,No Dual Identity,Good Characters,Brown Eyes,Brown Hair,Female Characters,,Living Characters,599,1963-09-01,1963.0
+56,1896,Rick Jones,Richard_Jones_(Earth-616),2,2,2,2,1,4,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,590,1962-05-01,1962.0
+57,1496,Edwin Jarvis (Earth-616),Edwin_Jarvis_(Earth-616),3,2,2,2,1,3,No Dual Identity,Good Characters,Blue Eyes,White Hair,Male Characters,,Living Characters,567,1964-11-01,1964.0
+58,1802,Havok,Alexander_Summers_(Earth-616),3,2,2,3,5,3,Public Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,558,1969-03-01,1969.0
+59,1811,Hellcat,Patricia_Walker_(Earth-616),3,4,2,3,1,5,Secret Identity,Good Characters,Blue Eyes,Red Hair,Female Characters,,Living Characters,550,1944-11-01,1944.0
+60,1836,Human Torch (Android),Human_Torch_(Android)_(Earth-616),2,3,3,3,5,4,Public Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,548,1939-10-01,1939.0
+61,2042,Loki,Loki_Laufeyson_(Earth-616),5,5,7,6,6,3,No Dual Identity,Neutral Characters,Green Eyes,Black Hair,Genderfluid Characters,Bisexual Characters,Living Characters,532,1949-08-01,1949.0
+62,1643,Franklin Nelson (Earth-616),Franklin_Nelson_(Earth-616),3,2,2,2,1,2,No Dual Identity,Good Characters,Blue Eyes,Bald,Male Characters,,Living Characters,528,1964-04-01,1964.0
+63,1285,Captain Britain,Brian_Braddock_(Earth-616),5,6,4,6,3,4,Public Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,528,1976-10-01,1976.0
+64,1453,Otto Octavius (Earth-616),Otto_Octavius_(Earth-616),5,4,3,3,1,4,Secret Identity,Neutral Characters,Hazel Eyes,Brown Hair,Male Characters,,Deceased Characters,526,1963-07-01,1963.0
+65,6194,James Rhodes (Earth-616),James_Rhodes_(Earth-616),3,6,5,6,6,4,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,525,1979-01-01,1979.0
+66,1487,Dum-Dum Dugan,Timothy_Dugan_(Earth-616),2,2,2,2,1,4,Public Identity,Good Characters,Blue Eyes,Red Hair,Male Characters,,Deceased Characters,517,1963-05-01,1963.0
+67,1380,Crystal,Crystalia_Amaquelin_(Earth-616),2,2,2,2,4,3,Public Identity,Good Characters,Green Eyes,Strawberry Blond Hair,Female Characters,,Living Characters,512,1965-12-01,1965.0
+68,1613,Falcon,Samuel_Wilson_(Earth-616),2,2,3,2,1,4,Public Identity,Good Characters,Brown Eyes,Black Hair,Male Characters,,Living Characters,512,1969-09-01,1969.0
+69,1931,Kingpin,Wilson_Fisk_(Earth-616),3,3,2,2,1,5,Public Identity,Bad Characters,Blue Eyes,Bald,Male Characters,,Living Characters,503,1967-07-01,1967.0
+70,1596,All-Father Odin,Odin_Borson_(Earth-616),7,6,7,7,7,4,Public Identity,Neutral Characters,Blue Eyes,White Hair,Male Characters,,Living Characters,502,1962-10-01,1962.0
+71,1409,Deadpool (Wade Wilson),Wade_Wilson_(Earth-616),2,4,7,4,1,6,Secret Identity,Neutral Characters,Brown Eyes,Bald,Male Characters,Transvestites,Living Characters,500,1991-02-01,1991.0
+72,1187,Black Knight,Dane_Whitman_(Earth-616),4,2,2,5,4,5,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,478,1967-12-01,1967.0
+73,1741,Harry Osborn,Harold_Osborn_(Earth-616),5,4,3,4,3,2,No Dual Identity,Good Characters,Blue Eyes,Brown Hair,Male Characters,,Living Characters,474,1965-12-01,1965.0
+74,68416,Powerhouse,Franklin_Richards_(Earth-616),4,1,2,3,7,2,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Male Characters,,Living Characters,473,1968-11-01,1968.0
+75,2589,Spider-Woman,Jessica_Drew_(Earth-616),3,5,3,4,5,4,Secret Identity,Good Characters,Green Eyes,Auburn Hair,Female Characters,,Living Characters,471,1977-02-01,1977.0
+76,2626,Citizen X,Roberto_da_Costa_(Earth-616),3,5,3,3,4,4,Secret Identity,Good Characters,Brown Eyes,Black Hair,Male Characters,,Living Characters,464,1982-11-01,1982.0
+77,2007,Wolsbane,Rahne_Sinclair_(Earth-616),2,3,3,3,1,3,Secret Identity,Good Characters,Green Eyes,Red Hair,Female Characters,,Living Characters,448,1982-11-01,1982.0
+78,1130,Red She-Hulk,Elizabeth_Ross_(Earth-616),3,7,3,6,1,3,Public Identity,Good Characters,Blue Eyes,Black Hair,Female Characters,,Living Characters,446,1962-05-01,1962.0
+79,2278,Polaris,Lorna_Dane_(Earth-616),2,3,5,2,5,3,Secret Identity,Good Characters,Green Eyes,Green Hair,Female Characters,,Living Characters,433,1968-10-01,1968.0
+80,67048,Kid Colt,Blaine_Colt_(Earth-616),2,2,2,2,1,4,Public Identity,,Blue Eyes,Blond Hair,Male Characters,,Deceased Characters,429,,
+81,1705,Johnathon Blaze (Earth-616),Johnathon_Blaze_(Earth-616),2,4,3,5,4,2,Secret Identity,Good Characters,Blue Eyes,Reddish Blond Hair,Male Characters,,Living Characters,426,1972-08-01,1972.0
+82,2550,Lady Sif,Sif_(Earth-616),2,5,7,3,1,5,No Dual Identity,Good Characters,Blue Eyes,Black Hair,Female Characters,,Living Characters,422,1964-03-01,1964.0
+83,2365,Red Hulk (Thaddeus Ross),Red_Hulk_(Thaddeus_Ross),3,7,3,6,2,4,Public Identity,Neutral Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,415,1962-05-01,1962.0
+84,1900,Jubilee,Jubilation_Lee_(Earth-616),2,4,3,6,5,3,Secret Identity,Good Characters,Brown Eyes,Black Hair,Female Characters,,Living Characters,408,1989-05-01,1989.0
+85,2420,Volstagg (Earth-616),Volstagg_(Earth-616),2,5,2,6,1,4,Public Identity,Good Characters,Blue Eyes,Red Hair,Male Characters,,Living Characters,406,1965-08-01,1965.0
+86,1127,Balder the Brave,Balder_Odinson_(Earth-616),2,5,3,3,3,4,Secret Identity,Good Characters,Blue Eyes,Brown Hair,Male Characters,,Deceased Characters,403,1962-10-01,1962.0
+87,1676,Galactus (Earth-616),Galactus_(Earth-616),7,7,7,7,7,2,Secret Identity,Neutral Characters,Brown Eyes,No Hair,Male Characters,,Living Characters,390,1966-03-01,1966.0
+88,1395,Moonstar,Danielle_Moonstar_(Earth-616),2,2,2,2,3,4,Secret Identity,Good Characters,Brown Eyes,Black Hair,Female Characters,,Living Characters,388,1982-11-01,1982.0
+89,2183,Moon Knight,Marc_Spector_(Earth-616),2,3,2,3,1,4,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Male Characters,,Living Characters,387,1975-08-01,1975.0
+90,1782,Gwen Stacy,Gwendolyne_Stacy_(Earth-616),4,2,2,2,1,1,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Female Characters,,Deceased Characters,384,1965-12-01,1965.0
+91,2137,Commander Medusa,Medusalith_Amaquelin_(Earth-616),3,3,2,3,1,4,Public Identity,Good Characters,Green Eyes,Red Hair,Female Characters,,Living Characters,382,1965-03-01,1965.0
+92,2374,Sabretooth (Victor Creed),Sabretooth_(Victor_Creed),2,3,2,4,1,6,Secret Identity,Bad Characters,Amber Eyes,Blond Hair,Male Characters,,Living Characters,382,1977-08-01,1977.0
+93,2077,Magik,Illyana_Rasputina_(Earth-616),4,2,7,3,6,4,Secret Identity,Neutral Characters,Blue Eyes,Blond Hair,Female Characters,,Living Characters,380,1975-05-01,1975.0
+94,2344,Red Skull,Johann_Shmidt_(Earth-616),5,3,3,3,1,6,Public Identity,Bad Characters,Blue Eyes,Blond Hair,Male Characters,,Deceased Characters,376,1941-08-01,1941.0
+95,1131,Banshee,Sean_Cassidy_(Earth-616),3,2,4,3,5,4,Secret Identity,Neutral Characters,Green Eyes,Strawberry Blond Hair,Male Characters,,Living Characters,374,1967-01-01,1967.0
+96,2487,Toro,Thomas_Raymond_(Earth-616),2,2,3,2,5,4,Secret Identity,Good Characters,Blue Eyes,Black Hair,Male Characters,,Living Characters,373,1940-09-01,1940.0
+97,1572,The Watcher,Uatu_(Earth-616),7,7,7,7,7,1,Public Identity,Good Characters,Blue Eyes,Bald,Male Characters,,Deceased Characters,373,1963-04-01,1963.0
+98,2456,Thanos,Thanos_(Earth-616),6,7,7,6,6,4,No Dual Identity,Bad Characters,Red Eyes,No Hair,Male Characters,,Living Characters,306,1973-02-01,1973.0

@@ -1,0 +1,601 @@
+,name,ALIGN,SEX,ALIVE,APPEARANCES,Attribute,Attribute_Score
+1,Spider-Man,Good Characters,Male Characters,Living Characters,4043,Intelligence,4
+2,Captain America,Good Characters,Male Characters,Living Characters,3360,Intelligence,3
+3,Wolverine,Neutral Characters,Male Characters,Living Characters,3061,Intelligence,2
+4,Iron Man,Good Characters,Male Characters,Living Characters,2961,Intelligence,6
+5,Thor,Good Characters,Male Characters,Living Characters,2258,Intelligence,2
+6,The Thing,Good Characters,Male Characters,Living Characters,2255,Intelligence,3
+7,Mr Fantastic,Good Characters,Male Characters,Living Characters,2072,Intelligence,6
+8,Hulk,Good Characters,Male Characters,Living Characters,2017,Intelligence,6
+9,Cyclops,Neutral Characters,Male Characters,Living Characters,1955,Intelligence,3
+10,Human Torch,Good Characters,Male Characters,Living Characters,1934,Intelligence,2
+11,Beast,Good Characters,Male Characters,Living Characters,1825,Intelligence,5
+12,Invisible Woman,Good Characters,Female Characters,Living Characters,1713,Intelligence,3
+13,Sub-Mariner,Neutral Characters,Male Characters,Living Characters,1528,Intelligence,2
+14,Storm,Good Characters,Female Characters,Living Characters,1512,Intelligence,2
+15,Hawkeye,Good Characters,Male Characters,Living Characters,1394,Intelligence,3
+16,Daredevil,Good Characters,Male Characters,Living Characters,1338,Intelligence,3
+17,Doctor Strange,Good Characters,Male Characters,Living Characters,1307,Intelligence,4
+18,Mary Jane Watson,Good Characters,Female Characters,Living Characters,1304,Intelligence,2
+19,John Jonah Jameson,Neutral Characters,Male Characters,Living Characters,1266,Intelligence,3
+20,Iceman,Good Characters,Male Characters,Living Characters,1265,Intelligence,2
+21,Hank Pym,Good Characters,Male Characters,Living Characters,1237,Intelligence,6
+22,Charles Xavier,Good Characters,Male Characters,Deceased Characters,1233,Intelligence,5
+23,Angel/Archangel,Good Characters,Male Characters,Living Characters,1230,Intelligence,3
+24,Colossus,Good Characters,Male Characters,Living Characters,1162,Intelligence,2
+25,Scarlet Witch,Good Characters,Female Characters,Living Characters,1161,Intelligence,3
+26,Nicholas Fury,Neutral Characters,Male Characters,Living Characters,1137,Intelligence,3
+27,The Wasp,Good Characters,Female Characters,Living Characters,1120,Intelligence,3
+28,Jean Grey,Good Characters,Female Characters,Deceased Characters,1107,Intelligence,3
+29,Black Widow,Good Characters,Female Characters,Living Characters,1050,Intelligence,3
+30,Nightcrawler,Good Characters,Male Characters,Living Characters,1047,Intelligence,3
+31,Vision,Good Characters,Male Characters,Living Characters,1007,Intelligence,4
+32,Aunt May,Good Characters,Female Characters,Living Characters,1000,Intelligence,2
+33,Kitty Pryde,Good Characters,Female Characters,Living Characters,886,Intelligence,4
+34,Captain Marvel,Good Characters,Female Characters,Living Characters,881,Intelligence,3
+35,She Hulk,Good Characters,Female Characters,Living Characters,881,Intelligence,3
+36,Black King,Neutral Characters,Female Characters,Living Characters,880,Intelligence,4
+37,Punisher,Neutral Characters,Male Characters,Living Characters,878,Intelligence,3
+38,Luke Cage,Good Characters,Male Characters,Living Characters,856,Intelligence,3
+39,Rogue,Good Characters,Female Characters,Living Characters,850,Intelligence,7
+40,Conan,Neutral Characters,Male Characters,Living Characters,787,Intelligence,2
+41,Joseph Robertson,Good Characters,Male Characters,Living Characters,752,Intelligence,3
+42,Quicksilver,Good Characters,Male Characters,Living Characters,740,Intelligence,3
+43,Hercules,Good Characters,Male Characters,Living Characters,725,Intelligence,2
+44,Dr Doom,Bad Characters,Male Characters,Living Characters,721,Intelligence,6
+45,Magneto,Neutral Characters,Male Characters,Living Characters,709,Intelligence,5
+46,Psylocke,Neutral Characters,Female Characters,Living Characters,708,Intelligence,2
+47,Silver Surfer,Good Characters,Male Characters,Living Characters,696,Intelligence,3
+48,Green Goblin,Bad Characters,Male Characters,Living Characters,692,Intelligence,4
+49,Agent Anti-Venom,Good Characters,Male Characters,Living Characters,689,Intelligence,2
+50,Wonder Man,Good Characters,Male Characters,Living Characters,686,Intelligence,4
+51,Canonball,Good Characters,Male Characters,Living Characters,657,Intelligence,2
+52,Winter Soldier,Good Characters,Male Characters,Living Characters,641,Intelligence,2
+53,Gambit,Good Characters,Male Characters,Living Characters,636,Intelligence,2
+54,Iron Fist,Good Characters,Male Characters,Living Characters,618,Intelligence,3
+55,Cable,Neutral Characters,Male Characters,Living Characters,612,Intelligence,3
+56,Betty Brant,Good Characters,Female Characters,Living Characters,599,Intelligence,2
+57,Rick Jones,Good Characters,Male Characters,Living Characters,590,Intelligence,2
+58,Edwin Jarvis,Good Characters,Male Characters,Living Characters,567,Intelligence,3
+59,Havok,Good Characters,Male Characters,Living Characters,558,Intelligence,3
+60,Hellcat,Good Characters,Female Characters,Living Characters,550,Intelligence,3
+61,Human Torch (Android),Good Characters,Male Characters,Living Characters,548,Intelligence,2
+62,Loki,Neutral Characters,Genderfluid Characters,Living Characters,532,Intelligence,5
+63,Franklin Nelson,Good Characters,Male Characters,Living Characters,528,Intelligence,3
+64,Captain Britain,Good Characters,Male Characters,Living Characters,528,Intelligence,5
+65,Otto Octavius,Neutral Characters,Male Characters,Deceased Characters,526,Intelligence,5
+66,James Rhodes,Good Characters,Male Characters,Living Characters,525,Intelligence,3
+67,Dum-Dum Dugan,Good Characters,Male Characters,Deceased Characters,517,Intelligence,2
+68,Crystal,Good Characters,Female Characters,Living Characters,512,Intelligence,2
+69,Falcon,Good Characters,Male Characters,Living Characters,512,Intelligence,2
+70,Kingpin,Bad Characters,Male Characters,Living Characters,503,Intelligence,3
+71,All-Father Odin,Neutral Characters,Male Characters,Living Characters,502,Intelligence,7
+72,Deadpool,Neutral Characters,Male Characters,Living Characters,500,Intelligence,2
+73,Black Knight,Good Characters,Male Characters,Living Characters,478,Intelligence,4
+74,Harry Osborn,Good Characters,Male Characters,Living Characters,474,Intelligence,5
+75,Powerhouse,Good Characters,Male Characters,Living Characters,473,Intelligence,4
+76,Spider-Woman,Good Characters,Female Characters,Living Characters,471,Intelligence,3
+77,Citizen X,Good Characters,Male Characters,Living Characters,464,Intelligence,3
+78,Wolsbane,Good Characters,Female Characters,Living Characters,448,Intelligence,2
+79,Red She-Hulk,Good Characters,Female Characters,Living Characters,446,Intelligence,3
+80,Polaris,Good Characters,Female Characters,Living Characters,433,Intelligence,2
+81,Kid Colt,Neutral Characters,Male Characters,Deceased Characters,429,Intelligence,2
+82,Johnathon Blaze,Good Characters,Male Characters,Living Characters,426,Intelligence,2
+83,Lady Sif,Good Characters,Female Characters,Living Characters,422,Intelligence,2
+84,Red Hulk,Neutral Characters,Male Characters,Living Characters,415,Intelligence,3
+85,Jubilee,Good Characters,Female Characters,Living Characters,408,Intelligence,2
+86,Volstagg,Good Characters,Male Characters,Living Characters,406,Intelligence,2
+87,Balder the Brave,Good Characters,Male Characters,Deceased Characters,403,Intelligence,2
+88,Galactus,Neutral Characters,Male Characters,Living Characters,390,Intelligence,7
+89,Moonstar,Good Characters,Female Characters,Living Characters,388,Intelligence,2
+90,Moon Knight,Good Characters,Male Characters,Living Characters,387,Intelligence,2
+91,Gwen Stacy,Good Characters,Female Characters,Deceased Characters,384,Intelligence,4
+92,Commander Medusa,Good Characters,Female Characters,Living Characters,382,Intelligence,3
+93,Sabretooth,Bad Characters,Male Characters,Living Characters,382,Intelligence,2
+94,Magik,Neutral Characters,Female Characters,Living Characters,380,Intelligence,4
+95,Red Skull,Bad Characters,Male Characters,Deceased Characters,376,Intelligence,5
+96,Banshee,Neutral Characters,Male Characters,Living Characters,374,Intelligence,3
+97,Toro,Good Characters,Male Characters,Living Characters,373,Intelligence,2
+98,The Watcher,Good Characters,Male Characters,Deceased Characters,373,Intelligence,7
+99,Thanos,Bad Characters,Male Characters,Living Characters,306,Intelligence,6
+100,Nova,Good Characters,Male Characters,Deceased Characters,373,Intelligence,6
+101,Spider-Man,Good Characters,Male Characters,Living Characters,4043,Stength,4
+102,Captain America,Good Characters,Male Characters,Living Characters,3360,Stength,3
+103,Wolverine,Neutral Characters,Male Characters,Living Characters,3061,Stength,4
+104,Iron Man,Good Characters,Male Characters,Living Characters,2961,Stength,6
+105,Thor,Good Characters,Male Characters,Living Characters,2258,Stength,7
+106,The Thing,Good Characters,Male Characters,Living Characters,2255,Stength,6
+107,Mr Fantastic,Good Characters,Male Characters,Living Characters,2072,Stength,2
+108,Hulk,Good Characters,Male Characters,Living Characters,2017,Stength,7
+109,Cyclops,Neutral Characters,Male Characters,Living Characters,1955,Stength,2
+110,Human Torch,Good Characters,Male Characters,Living Characters,1934,Stength,2
+111,Beast,Good Characters,Male Characters,Living Characters,1825,Stength,4
+112,Invisible Woman,Good Characters,Female Characters,Living Characters,1713,Stength,2
+113,Sub-Mariner,Neutral Characters,Male Characters,Living Characters,1528,Stength,6
+114,Storm,Good Characters,Female Characters,Living Characters,1512,Stength,2
+115,Hawkeye,Good Characters,Male Characters,Living Characters,1394,Stength,2
+116,Daredevil,Good Characters,Male Characters,Living Characters,1338,Stength,3
+117,Doctor Strange,Good Characters,Male Characters,Living Characters,1307,Stength,2
+118,Mary Jane Watson,Good Characters,Female Characters,Living Characters,1304,Stength,2
+119,John Jonah Jameson,Neutral Characters,Male Characters,Living Characters,1266,Stength,2
+120,Iceman,Good Characters,Male Characters,Living Characters,1265,Stength,3
+121,Hank Pym,Good Characters,Male Characters,Living Characters,1237,Stength,7
+122,Charles Xavier,Good Characters,Male Characters,Deceased Characters,1233,Stength,2
+123,Angel/Archangel,Good Characters,Male Characters,Living Characters,1230,Stength,2
+124,Colossus,Good Characters,Male Characters,Living Characters,1162,Stength,6
+125,Scarlet Witch,Good Characters,Female Characters,Living Characters,1161,Stength,2
+126,Nicholas Fury,Neutral Characters,Male Characters,Living Characters,1137,Stength,2
+127,The Wasp,Good Characters,Female Characters,Living Characters,1120,Stength,5
+128,Jean Grey,Good Characters,Female Characters,Deceased Characters,1107,Stength,2
+129,Black Widow,Good Characters,Female Characters,Living Characters,1050,Stength,3
+130,Nightcrawler,Good Characters,Male Characters,Living Characters,1047,Stength,2
+131,Vision,Good Characters,Male Characters,Living Characters,1007,Stength,5
+132,Aunt May,Good Characters,Female Characters,Living Characters,1000,Stength,1
+133,Kitty Pryde,Good Characters,Female Characters,Living Characters,886,Stength,2
+134,Captain Marvel,Good Characters,Female Characters,Living Characters,881,Stength,5
+135,She Hulk,Good Characters,Female Characters,Living Characters,881,Stength,7
+136,Black King,Neutral Characters,Female Characters,Living Characters,880,Stength,4
+137,Punisher,Neutral Characters,Male Characters,Living Characters,878,Stength,3
+138,Luke Cage,Good Characters,Male Characters,Living Characters,856,Stength,4
+139,Rogue,Good Characters,Female Characters,Living Characters,850,Stength,7
+140,Conan,Neutral Characters,Male Characters,Living Characters,787,Stength,5
+141,Joseph Robertson,Good Characters,Male Characters,Living Characters,752,Stength,2
+142,Quicksilver,Good Characters,Male Characters,Living Characters,740,Stength,4
+143,Hercules,Good Characters,Male Characters,Living Characters,725,Stength,7
+144,Dr Doom,Bad Characters,Male Characters,Living Characters,721,Stength,4
+145,Magneto,Neutral Characters,Male Characters,Living Characters,709,Stength,2
+146,Psylocke,Neutral Characters,Female Characters,Living Characters,708,Stength,3
+147,Silver Surfer,Good Characters,Male Characters,Living Characters,696,Stength,7
+148,Green Goblin,Bad Characters,Male Characters,Living Characters,692,Stength,4
+149,Agent Anti-Venom,Good Characters,Male Characters,Living Characters,689,Stength,5
+150,Wonder Man,Good Characters,Male Characters,Living Characters,686,Stength,7
+151,Canonball,Good Characters,Male Characters,Living Characters,657,Stength,2
+152,Winter Soldier,Good Characters,Male Characters,Living Characters,641,Stength,4
+153,Gambit,Good Characters,Male Characters,Living Characters,636,Stength,2
+154,Iron Fist,Good Characters,Male Characters,Living Characters,618,Stength,2
+155,Cable,Neutral Characters,Male Characters,Living Characters,612,Stength,4
+156,Betty Brant,Good Characters,Female Characters,Living Characters,599,Stength,2
+157,Rick Jones,Good Characters,Male Characters,Living Characters,590,Stength,2
+158,Edwin Jarvis,Good Characters,Male Characters,Living Characters,567,Stength,2
+159,Havok,Good Characters,Male Characters,Living Characters,558,Stength,2
+160,Hellcat,Good Characters,Female Characters,Living Characters,550,Stength,4
+161,Human Torch (Android),Good Characters,Male Characters,Living Characters,548,Stength,3
+162,Loki,Neutral Characters,Genderfluid Characters,Living Characters,532,Stength,5
+163,Franklin Nelson,Good Characters,Male Characters,Living Characters,528,Stength,2
+164,Captain Britain,Good Characters,Male Characters,Living Characters,528,Stength,6
+165,Otto Octavius,Neutral Characters,Male Characters,Deceased Characters,526,Stength,4
+166,James Rhodes,Good Characters,Male Characters,Living Characters,525,Stength,6
+167,Dum-Dum Dugan,Good Characters,Male Characters,Deceased Characters,517,Stength,2
+168,Crystal,Good Characters,Female Characters,Living Characters,512,Stength,2
+169,Falcon,Good Characters,Male Characters,Living Characters,512,Stength,2
+170,Kingpin,Bad Characters,Male Characters,Living Characters,503,Stength,3
+171,All-Father Odin,Neutral Characters,Male Characters,Living Characters,502,Stength,6
+172,Deadpool,Neutral Characters,Male Characters,Living Characters,500,Stength,4
+173,Black Knight,Good Characters,Male Characters,Living Characters,478,Stength,2
+174,Harry Osborn,Good Characters,Male Characters,Living Characters,474,Stength,4
+175,Powerhouse,Good Characters,Male Characters,Living Characters,473,Stength,1
+176,Spider-Woman,Good Characters,Female Characters,Living Characters,471,Stength,5
+177,Citizen X,Good Characters,Male Characters,Living Characters,464,Stength,5
+178,Wolsbane,Good Characters,Female Characters,Living Characters,448,Stength,3
+179,Red She-Hulk,Good Characters,Female Characters,Living Characters,446,Stength,7
+180,Polaris,Good Characters,Female Characters,Living Characters,433,Stength,3
+181,Kid Colt,Neutral Characters,Male Characters,Deceased Characters,429,Stength,2
+182,Johnathon Blaze,Good Characters,Male Characters,Living Characters,426,Stength,4
+183,Lady Sif,Good Characters,Female Characters,Living Characters,422,Stength,5
+184,Red Hulk,Neutral Characters,Male Characters,Living Characters,415,Stength,7
+185,Jubilee,Good Characters,Female Characters,Living Characters,408,Stength,4
+186,Volstagg,Good Characters,Male Characters,Living Characters,406,Stength,5
+187,Balder the Brave,Good Characters,Male Characters,Deceased Characters,403,Stength,5
+188,Galactus,Neutral Characters,Male Characters,Living Characters,390,Stength,7
+189,Moonstar,Good Characters,Female Characters,Living Characters,388,Stength,2
+190,Moon Knight,Good Characters,Male Characters,Living Characters,387,Stength,3
+191,Gwen Stacy,Good Characters,Female Characters,Deceased Characters,384,Stength,2
+192,Commander Medusa,Good Characters,Female Characters,Living Characters,382,Stength,3
+193,Sabretooth,Bad Characters,Male Characters,Living Characters,382,Stength,3
+194,Magik,Neutral Characters,Female Characters,Living Characters,380,Stength,2
+195,Red Skull,Bad Characters,Male Characters,Deceased Characters,376,Stength,3
+196,Banshee,Neutral Characters,Male Characters,Living Characters,374,Stength,2
+197,Toro,Good Characters,Male Characters,Living Characters,373,Stength,2
+198,The Watcher,Good Characters,Male Characters,Deceased Characters,373,Stength,7
+199,Thanos,Bad Characters,Male Characters,Living Characters,306,Stength,7
+200,Nova,Good Characters,Male Characters,Deceased Characters,373,Stength,7
+201,Spider-Man,Good Characters,Male Characters,Living Characters,4043,Speed,3
+202,Captain America,Good Characters,Male Characters,Living Characters,3360,Speed,2
+203,Wolverine,Neutral Characters,Male Characters,Living Characters,3061,Speed,2
+204,Iron Man,Good Characters,Male Characters,Living Characters,2961,Speed,5
+205,Thor,Good Characters,Male Characters,Living Characters,2258,Speed,7
+206,The Thing,Good Characters,Male Characters,Living Characters,2255,Speed,2
+207,Mr Fantastic,Good Characters,Male Characters,Living Characters,2072,Speed,2
+208,Hulk,Good Characters,Male Characters,Living Characters,2017,Speed,3
+209,Cyclops,Neutral Characters,Male Characters,Living Characters,1955,Speed,2
+210,Human Torch,Good Characters,Male Characters,Living Characters,1934,Speed,5
+211,Beast,Good Characters,Male Characters,Living Characters,1825,Speed,3
+212,Invisible Woman,Good Characters,Female Characters,Living Characters,1713,Speed,3
+213,Sub-Mariner,Neutral Characters,Male Characters,Living Characters,1528,Speed,3
+214,Storm,Good Characters,Female Characters,Living Characters,1512,Speed,3
+215,Hawkeye,Good Characters,Male Characters,Living Characters,1394,Speed,2
+216,Daredevil,Good Characters,Male Characters,Living Characters,1338,Speed,2
+217,Doctor Strange,Good Characters,Male Characters,Living Characters,1307,Speed,7
+218,Mary Jane Watson,Good Characters,Female Characters,Living Characters,1304,Speed,2
+219,John Jonah Jameson,Neutral Characters,Male Characters,Living Characters,1266,Speed,2
+220,Iceman,Good Characters,Male Characters,Living Characters,1265,Speed,3
+221,Hank Pym,Good Characters,Male Characters,Living Characters,1237,Speed,3
+222,Charles Xavier,Good Characters,Male Characters,Deceased Characters,1233,Speed,2
+223,Angel/Archangel,Good Characters,Male Characters,Living Characters,1230,Speed,3
+224,Colossus,Good Characters,Male Characters,Living Characters,1162,Speed,2
+225,Scarlet Witch,Good Characters,Female Characters,Living Characters,1161,Speed,2
+226,Nicholas Fury,Neutral Characters,Male Characters,Living Characters,1137,Speed,2
+227,The Wasp,Good Characters,Female Characters,Living Characters,1120,Speed,3
+228,Jean Grey,Good Characters,Female Characters,Deceased Characters,1107,Speed,7
+229,Black Widow,Good Characters,Female Characters,Living Characters,1050,Speed,2
+230,Nightcrawler,Good Characters,Male Characters,Living Characters,1047,Speed,7
+231,Vision,Good Characters,Male Characters,Living Characters,1007,Speed,3
+232,Aunt May,Good Characters,Female Characters,Living Characters,1000,Speed,1
+233,Kitty Pryde,Good Characters,Female Characters,Living Characters,886,Speed,2
+234,Captain Marvel,Good Characters,Female Characters,Living Characters,881,Speed,5
+235,She Hulk,Good Characters,Female Characters,Living Characters,881,Speed,3
+236,Black King,Neutral Characters,Female Characters,Living Characters,880,Speed,2
+237,Punisher,Neutral Characters,Male Characters,Living Characters,878,Speed,2
+238,Luke Cage,Good Characters,Male Characters,Living Characters,856,Speed,2
+239,Rogue,Good Characters,Female Characters,Living Characters,850,Speed,7
+240,Conan,Neutral Characters,Male Characters,Living Characters,787,Speed,3
+241,Joseph Robertson,Good Characters,Male Characters,Living Characters,752,Speed,2
+242,Quicksilver,Good Characters,Male Characters,Living Characters,740,Speed,5
+243,Hercules,Good Characters,Male Characters,Living Characters,725,Speed,2
+244,Dr Doom,Bad Characters,Male Characters,Living Characters,721,Speed,5
+245,Magneto,Neutral Characters,Male Characters,Living Characters,709,Speed,5
+246,Psylocke,Neutral Characters,Female Characters,Living Characters,708,Speed,2
+247,Silver Surfer,Good Characters,Male Characters,Living Characters,696,Speed,7
+248,Green Goblin,Bad Characters,Male Characters,Living Characters,692,Speed,3
+249,Agent Anti-Venom,Good Characters,Male Characters,Living Characters,689,Speed,1
+250,Wonder Man,Good Characters,Male Characters,Living Characters,686,Speed,4
+251,Canonball,Good Characters,Male Characters,Living Characters,657,Speed,4
+252,Winter Soldier,Good Characters,Male Characters,Living Characters,641,Speed,2
+253,Gambit,Good Characters,Male Characters,Living Characters,636,Speed,2
+254,Iron Fist,Good Characters,Male Characters,Living Characters,618,Speed,2
+255,Cable,Neutral Characters,Male Characters,Living Characters,612,Speed,7
+256,Betty Brant,Good Characters,Female Characters,Living Characters,599,Speed,2
+257,Rick Jones,Good Characters,Male Characters,Living Characters,590,Speed,2
+258,Edwin Jarvis,Good Characters,Male Characters,Living Characters,567,Speed,2
+259,Havok,Good Characters,Male Characters,Living Characters,558,Speed,2
+260,Hellcat,Good Characters,Female Characters,Living Characters,550,Speed,2
+261,Human Torch (Android),Good Characters,Male Characters,Living Characters,548,Speed,3
+262,Loki,Neutral Characters,Genderfluid Characters,Living Characters,532,Speed,7
+263,Franklin Nelson,Good Characters,Male Characters,Living Characters,528,Speed,2
+264,Captain Britain,Good Characters,Male Characters,Living Characters,528,Speed,4
+265,Otto Octavius,Neutral Characters,Male Characters,Deceased Characters,526,Speed,3
+266,James Rhodes,Good Characters,Male Characters,Living Characters,525,Speed,5
+267,Dum-Dum Dugan,Good Characters,Male Characters,Deceased Characters,517,Speed,2
+268,Crystal,Good Characters,Female Characters,Living Characters,512,Speed,2
+269,Falcon,Good Characters,Male Characters,Living Characters,512,Speed,3
+270,Kingpin,Bad Characters,Male Characters,Living Characters,503,Speed,2
+271,All-Father Odin,Neutral Characters,Male Characters,Living Characters,502,Speed,7
+272,Deadpool,Neutral Characters,Male Characters,Living Characters,500,Speed,7
+273,Black Knight,Good Characters,Male Characters,Living Characters,478,Speed,2
+274,Harry Osborn,Good Characters,Male Characters,Living Characters,474,Speed,3
+275,Powerhouse,Good Characters,Male Characters,Living Characters,473,Speed,2
+276,Spider-Woman,Good Characters,Female Characters,Living Characters,471,Speed,3
+277,Citizen X,Good Characters,Male Characters,Living Characters,464,Speed,3
+278,Wolsbane,Good Characters,Female Characters,Living Characters,448,Speed,3
+279,Red She-Hulk,Good Characters,Female Characters,Living Characters,446,Speed,3
+280,Polaris,Good Characters,Female Characters,Living Characters,433,Speed,5
+281,Kid Colt,,Male Characters,Deceased Characters,429,Speed,2
+282,Johnathon Blaze,Good Characters,Male Characters,Living Characters,426,Speed,3
+283,Lady Sif,Good Characters,Female Characters,Living Characters,422,Speed,7
+284,Red Hulk,Neutral Characters,Male Characters,Living Characters,415,Speed,3
+285,Jubilee,Good Characters,Female Characters,Living Characters,408,Speed,3
+286,Volstagg,Good Characters,Male Characters,Living Characters,406,Speed,2
+287,Balder the Brave,Good Characters,Male Characters,Deceased Characters,403,Speed,3
+288,Galactus,Neutral Characters,Male Characters,Living Characters,390,Speed,7
+289,Moonstar,Good Characters,Female Characters,Living Characters,388,Speed,2
+290,Moon Knight,Good Characters,Male Characters,Living Characters,387,Speed,2
+291,Gwen Stacy,Good Characters,Female Characters,Deceased Characters,384,Speed,2
+292,Commander Medusa,Good Characters,Female Characters,Living Characters,382,Speed,2
+293,Sabretooth,Bad Characters,Male Characters,Living Characters,382,Speed,2
+294,Magik,Neutral Characters,Female Characters,Living Characters,380,Speed,7
+295,Red Skull,Bad Characters,Male Characters,Deceased Characters,376,Speed,3
+296,Banshee,Neutral Characters,Male Characters,Living Characters,374,Speed,4
+297,Toro,Good Characters,Male Characters,Living Characters,373,Speed,3
+298,The Watcher,Good Characters,Male Characters,Deceased Characters,373,Speed,7
+299,Thanos,Bad Characters,Male Characters,Living Characters,306,Speed,7
+300,Nova,Good Characters,Male Characters,Deceased Characters,373,Speed,7
+301,Spider-Man,Good Characters,Male Characters,Living Characters,4043,Durability,3
+302,Captain America,Good Characters,Male Characters,Living Characters,3360,Durability,3
+303,Wolverine,Neutral Characters,Male Characters,Living Characters,3061,Durability,4
+304,Iron Man,Good Characters,Male Characters,Living Characters,2961,Durability,6
+305,Thor,Good Characters,Male Characters,Living Characters,2258,Durability,6
+306,The Thing,Good Characters,Male Characters,Living Characters,2255,Durability,6
+307,Mr Fantastic,Good Characters,Male Characters,Living Characters,2072,Durability,5
+308,Hulk,Good Characters,Male Characters,Living Characters,2017,Durability,7
+309,Cyclops,Neutral Characters,Male Characters,Living Characters,1955,Durability,2
+310,Human Torch,Good Characters,Male Characters,Living Characters,1934,Durability,6
+311,Beast,Good Characters,Male Characters,Living Characters,1825,Durability,4
+312,Invisible Woman,Good Characters,Female Characters,Living Characters,1713,Durability,6
+313,Sub-Mariner,Neutral Characters,Male Characters,Living Characters,1528,Durability,6
+314,Storm,Good Characters,Female Characters,Living Characters,1512,Durability,2
+315,Hawkeye,Good Characters,Male Characters,Living Characters,1394,Durability,2
+316,Daredevil,Good Characters,Male Characters,Living Characters,1338,Durability,2
+317,Doctor Strange,Good Characters,Male Characters,Living Characters,1307,Durability,2
+318,Mary Jane Watson,Good Characters,Female Characters,Living Characters,1304,Durability,2
+319,John Jonah Jameson,Neutral Characters,Male Characters,Living Characters,1266,Durability,2
+320,Iceman,Good Characters,Male Characters,Living Characters,1265,Durability,4
+321,Hank Pym,Good Characters,Male Characters,Living Characters,1237,Durability,3
+322,Charles Xavier,Good Characters,Male Characters,Deceased Characters,1233,Durability,2
+323,Angel/Archangel,Good Characters,Male Characters,Living Characters,1230,Durability,2
+324,Colossus,Good Characters,Male Characters,Living Characters,1162,Durability,6
+325,Scarlet Witch,Good Characters,Female Characters,Living Characters,1161,Durability,2
+326,Nicholas Fury,Neutral Characters,Male Characters,Living Characters,1137,Durability,2
+327,The Wasp,Good Characters,Female Characters,Living Characters,1120,Durability,2
+328,Jean Grey,Good Characters,Female Characters,Deceased Characters,1107,Durability,7
+329,Black Widow,Good Characters,Female Characters,Living Characters,1050,Durability,3
+330,Nightcrawler,Good Characters,Male Characters,Living Characters,1047,Durability,2
+331,Vision,Good Characters,Male Characters,Living Characters,1007,Durability,6
+332,Aunt May,Good Characters,Female Characters,Living Characters,1000,Durability,1
+333,Kitty Pryde,Good Characters,Female Characters,Living Characters,886,Durability,3
+334,Captain Marvel,Good Characters,Female Characters,Living Characters,881,Durability,6
+335,She Hulk,Good Characters,Female Characters,Living Characters,881,Durability,6
+336,Black King,Neutral Characters,Female Characters,Living Characters,880,Durability,5
+337,Punisher,Neutral Characters,Male Characters,Living Characters,878,Durability,2
+338,Luke Cage,Good Characters,Male Characters,Living Characters,856,Durability,5
+339,Rogue,Good Characters,Female Characters,Living Characters,850,Durability,7
+340,Conan,Neutral Characters,Male Characters,Living Characters,787,Durability,5
+341,Joseph Robertson,Good Characters,Male Characters,Living Characters,752,Durability,2
+342,Quicksilver,Good Characters,Male Characters,Living Characters,740,Durability,3
+343,Hercules,Good Characters,Male Characters,Living Characters,725,Durability,6
+344,Dr Doom,Bad Characters,Male Characters,Living Characters,721,Durability,6
+345,Magneto,Neutral Characters,Male Characters,Living Characters,709,Durability,2
+346,Psylocke,Neutral Characters,Female Characters,Living Characters,708,Durability,3
+347,Silver Surfer,Good Characters,Male Characters,Living Characters,696,Durability,6
+348,Green Goblin,Bad Characters,Male Characters,Living Characters,692,Durability,4
+349,Agent Anti-Venom,Good Characters,Male Characters,Living Characters,689,Durability,2
+350,Wonder Man,Good Characters,Male Characters,Living Characters,686,Durability,6
+351,Canonball,Good Characters,Male Characters,Living Characters,657,Durability,6
+352,Winter Soldier,Good Characters,Male Characters,Living Characters,641,Durability,3
+353,Gambit,Good Characters,Male Characters,Living Characters,636,Durability,2
+354,Iron Fist,Good Characters,Male Characters,Living Characters,618,Durability,3
+355,Cable,Neutral Characters,Male Characters,Living Characters,612,Durability,4
+356,Betty Brant,Good Characters,Female Characters,Living Characters,599,Durability,2
+357,Rick Jones,Good Characters,Male Characters,Living Characters,590,Durability,2
+358,Edwin Jarvis,Good Characters,Male Characters,Living Characters,567,Durability,2
+359,Havok,Good Characters,Male Characters,Living Characters,558,Durability,3
+360,Hellcat,Good Characters,Female Characters,Living Characters,550,Durability,3
+361,Human Torch (Android),Good Characters,Male Characters,Living Characters,548,Durability,3
+362,Loki,Neutral Characters,Genderfluid Characters,Living Characters,532,Durability,6
+363,Franklin Nelson,Good Characters,Male Characters,Living Characters,528,Durability,2
+364,Captain Britain,Good Characters,Male Characters,Living Characters,528,Durability,6
+365,Otto Octavius,Neutral Characters,Male Characters,Deceased Characters,526,Durability,3
+366,James Rhodes,Good Characters,Male Characters,Living Characters,525,Durability,6
+367,Dum-Dum Dugan,Good Characters,Male Characters,Deceased Characters,517,Durability,2
+368,Crystal,Good Characters,Female Characters,Living Characters,512,Durability,2
+369,Falcon,Good Characters,Male Characters,Living Characters,512,Durability,2
+370,Kingpin,Bad Characters,Male Characters,Living Characters,503,Durability,2
+371,All-Father Odin,Neutral Characters,Male Characters,Living Characters,502,Durability,7
+372,Deadpool,Neutral Characters,Male Characters,Living Characters,500,Durability,4
+373,Black Knight,Good Characters,Male Characters,Living Characters,478,Durability,5
+374,Harry Osborn,Good Characters,Male Characters,Living Characters,474,Durability,4
+375,Powerhouse,Good Characters,Male Characters,Living Characters,473,Durability,3
+376,Spider-Woman,Good Characters,Female Characters,Living Characters,471,Durability,4
+377,Citizen X,Good Characters,Male Characters,Living Characters,464,Durability,3
+378,Wolsbane,Good Characters,Female Characters,Living Characters,448,Durability,3
+379,Red She-Hulk,Good Characters,Female Characters,Living Characters,446,Durability,6
+380,Polaris,Good Characters,Female Characters,Living Characters,433,Durability,2
+381,Kid Colt,Neutral Characters,Male Characters,Deceased Characters,429,Durability,2
+382,Johnathon Blaze,Good Characters,Male Characters,Living Characters,426,Durability,5
+383,Lady Sif,Good Characters,Female Characters,Living Characters,422,Durability,3
+384,Red Hulk,Neutral Characters,Male Characters,Living Characters,415,Durability,6
+385,Jubilee,Good Characters,Female Characters,Living Characters,408,Durability,6
+386,Volstagg,Good Characters,Male Characters,Living Characters,406,Durability,6
+387,Balder the Brave,Good Characters,Male Characters,Deceased Characters,403,Durability,3
+388,Galactus,Neutral Characters,Male Characters,Living Characters,390,Durability,7
+389,Moonstar,Good Characters,Female Characters,Living Characters,388,Durability,2
+390,Moon Knight,Good Characters,Male Characters,Living Characters,387,Durability,3
+391,Gwen Stacy,Good Characters,Female Characters,Deceased Characters,384,Durability,2
+392,Commander Medusa,Good Characters,Female Characters,Living Characters,382,Durability,3
+393,Sabretooth,Bad Characters,Male Characters,Living Characters,382,Durability,4
+394,Magik,Neutral Characters,Female Characters,Living Characters,380,Durability,3
+395,Red Skull,Bad Characters,Male Characters,Deceased Characters,376,Durability,3
+396,Banshee,Neutral Characters,Male Characters,Living Characters,374,Durability,3
+397,Toro,Good Characters,Male Characters,Living Characters,373,Durability,2
+398,The Watcher,Good Characters,Male Characters,Deceased Characters,373,Durability,7
+399,Thanos,Bad Characters,Male Characters,Living Characters,306,Durability,6
+400,Nova,Good Characters,Male Characters,Deceased Characters,373,Durability,7
+401,Spider-Man,Good Characters,Male Characters,Living Characters,4043,Energy.Projection,1
+402,Captain America,Good Characters,Male Characters,Living Characters,3360,Energy.Projection,1
+403,Wolverine,Neutral Characters,Male Characters,Living Characters,3061,Energy.Projection,1
+404,Iron Man,Good Characters,Male Characters,Living Characters,2961,Energy.Projection,6
+405,Thor,Good Characters,Male Characters,Living Characters,2258,Energy.Projection,6
+406,The Thing,Good Characters,Male Characters,Living Characters,2255,Energy.Projection,1
+407,Mr Fantastic,Good Characters,Male Characters,Living Characters,2072,Energy.Projection,1
+408,Hulk,Good Characters,Male Characters,Living Characters,2017,Energy.Projection,5
+409,Cyclops,Neutral Characters,Male Characters,Living Characters,1955,Energy.Projection,5
+410,Human Torch,Good Characters,Male Characters,Living Characters,1934,Energy.Projection,5
+411,Beast,Good Characters,Male Characters,Living Characters,1825,Energy.Projection,1
+412,Invisible Woman,Good Characters,Female Characters,Living Characters,1713,Energy.Projection,5
+413,Sub-Mariner,Neutral Characters,Male Characters,Living Characters,1528,Energy.Projection,2
+414,Storm,Good Characters,Female Characters,Living Characters,1512,Energy.Projection,5
+415,Hawkeye,Good Characters,Male Characters,Living Characters,1394,Energy.Projection,1
+416,Daredevil,Good Characters,Male Characters,Living Characters,1338,Energy.Projection,4
+417,Doctor Strange,Good Characters,Male Characters,Living Characters,1307,Energy.Projection,6
+418,Mary Jane Watson,Good Characters,Female Characters,Living Characters,1304,Energy.Projection,1
+419,John Jonah Jameson,Neutral Characters,Male Characters,Living Characters,1266,Energy.Projection,1
+420,Iceman,Good Characters,Male Characters,Living Characters,1265,Energy.Projection,5
+421,Hank Pym,Good Characters,Male Characters,Living Characters,1237,Energy.Projection,6
+422,Charles Xavier,Good Characters,Male Characters,Deceased Characters,1233,Energy.Projection,5
+423,Angel/Archangel,Good Characters,Male Characters,Living Characters,1230,Energy.Projection,1
+424,Colossus,Good Characters,Male Characters,Living Characters,1162,Energy.Projection,1
+425,Scarlet Witch,Good Characters,Female Characters,Living Characters,1161,Energy.Projection,6
+426,Nicholas Fury,Neutral Characters,Male Characters,Living Characters,1137,Energy.Projection,1
+427,The Wasp,Good Characters,Female Characters,Living Characters,1120,Energy.Projection,4
+428,Jean Grey,Good Characters,Female Characters,Deceased Characters,1107,Energy.Projection,7
+429,Black Widow,Good Characters,Female Characters,Living Characters,1050,Energy.Projection,3
+430,Nightcrawler,Good Characters,Male Characters,Living Characters,1047,Energy.Projection,1
+431,Vision,Good Characters,Male Characters,Living Characters,1007,Energy.Projection,6
+432,Aunt May,Good Characters,Female Characters,Living Characters,1000,Energy.Projection,1
+433,Kitty Pryde,Good Characters,Female Characters,Living Characters,886,Energy.Projection,1
+434,Captain Marvel,Good Characters,Female Characters,Living Characters,881,Energy.Projection,5
+435,She Hulk,Good Characters,Female Characters,Living Characters,881,Energy.Projection,1
+436,Black King,Neutral Characters,Female Characters,Living Characters,880,Energy.Projection,5
+437,Punisher,Neutral Characters,Male Characters,Living Characters,878,Energy.Projection,1
+438,Luke Cage,Good Characters,Male Characters,Living Characters,856,Energy.Projection,1
+439,Rogue,Good Characters,Female Characters,Living Characters,850,Energy.Projection,7
+440,Conan,Neutral Characters,Male Characters,Living Characters,787,Energy.Projection,1
+441,Joseph Robertson,Good Characters,Male Characters,Living Characters,752,Energy.Projection,1
+442,Quicksilver,Good Characters,Male Characters,Living Characters,740,Energy.Projection,1
+443,Hercules,Good Characters,Male Characters,Living Characters,725,Energy.Projection,1
+444,Dr Doom,Bad Characters,Male Characters,Living Characters,721,Energy.Projection,6
+445,Magneto,Neutral Characters,Male Characters,Living Characters,709,Energy.Projection,6
+446,Psylocke,Neutral Characters,Female Characters,Living Characters,708,Energy.Projection,5
+447,Silver Surfer,Good Characters,Male Characters,Living Characters,696,Energy.Projection,7
+448,Green Goblin,Bad Characters,Male Characters,Living Characters,692,Energy.Projection,3
+449,Agent Anti-Venom,Good Characters,Male Characters,Living Characters,689,Energy.Projection,1
+450,Wonder Man,Good Characters,Male Characters,Living Characters,686,Energy.Projection,2
+451,Canonball,Good Characters,Male Characters,Living Characters,657,Energy.Projection,3
+452,Winter Soldier,Good Characters,Male Characters,Living Characters,641,Energy.Projection,1
+453,Gambit,Good Characters,Male Characters,Living Characters,636,Energy.Projection,2
+454,Iron Fist,Good Characters,Male Characters,Living Characters,618,Energy.Projection,3
+455,Cable,Neutral Characters,Male Characters,Living Characters,612,Energy.Projection,4
+456,Betty Brant,Good Characters,Female Characters,Living Characters,599,Energy.Projection,1
+457,Rick Jones,Good Characters,Male Characters,Living Characters,590,Energy.Projection,1
+458,Edwin Jarvis,Good Characters,Male Characters,Living Characters,567,Energy.Projection,1
+459,Havok,Good Characters,Male Characters,Living Characters,558,Energy.Projection,5
+460,Hellcat,Good Characters,Female Characters,Living Characters,550,Energy.Projection,1
+461,Human Torch (Android),Good Characters,Male Characters,Living Characters,548,Energy.Projection,5
+462,Loki,Neutral Characters,Genderfluid Characters,Living Characters,532,Energy.Projection,6
+463,Franklin Nelson,Good Characters,Male Characters,Living Characters,528,Energy.Projection,1
+464,Captain Britain,Good Characters,Male Characters,Living Characters,528,Energy.Projection,3
+465,Otto Octavius,Neutral Characters,Male Characters,Deceased Characters,526,Energy.Projection,1
+466,James Rhodes,Good Characters,Male Characters,Living Characters,525,Energy.Projection,6
+467,Dum-Dum Dugan,Good Characters,Male Characters,Deceased Characters,517,Energy.Projection,1
+468,Crystal,Good Characters,Female Characters,Living Characters,512,Energy.Projection,4
+469,Falcon,Good Characters,Male Characters,Living Characters,512,Energy.Projection,1
+470,Kingpin,Bad Characters,Male Characters,Living Characters,503,Energy.Projection,1
+471,All-Father Odin,Neutral Characters,Male Characters,Living Characters,502,Energy.Projection,7
+472,Deadpool,Neutral Characters,Male Characters,Living Characters,500,Energy.Projection,1
+473,Black Knight,Good Characters,Male Characters,Living Characters,478,Energy.Projection,4
+474,Harry Osborn,Good Characters,Male Characters,Living Characters,474,Energy.Projection,3
+475,Powerhouse,Good Characters,Male Characters,Living Characters,473,Energy.Projection,7
+476,Spider-Woman,Good Characters,Female Characters,Living Characters,471,Energy.Projection,5
+477,Citizen X,Good Characters,Male Characters,Living Characters,464,Energy.Projection,4
+478,Wolsbane,Good Characters,Female Characters,Living Characters,448,Energy.Projection,1
+479,Red She-Hulk,Good Characters,Female Characters,Living Characters,446,Energy.Projection,1
+480,Polaris,Good Characters,Female Characters,Living Characters,433,Energy.Projection,5
+481,Kid Colt,,Male Characters,Deceased Characters,429,Energy.Projection,1
+482,Johnathon Blaze,Good Characters,Male Characters,Living Characters,426,Energy.Projection,4
+483,Lady Sif,Good Characters,Female Characters,Living Characters,422,Energy.Projection,1
+484,Red Hulk,Neutral Characters,Male Characters,Living Characters,415,Energy.Projection,2
+485,Jubilee,Good Characters,Female Characters,Living Characters,408,Energy.Projection,5
+486,Volstagg,Good Characters,Male Characters,Living Characters,406,Energy.Projection,1
+487,Balder the Brave,Good Characters,Male Characters,Deceased Characters,403,Energy.Projection,3
+488,Galactus,Neutral Characters,Male Characters,Living Characters,390,Energy.Projection,7
+489,Moonstar,Good Characters,Female Characters,Living Characters,388,Energy.Projection,3
+490,Moon Knight,Good Characters,Male Characters,Living Characters,387,Energy.Projection,1
+491,Gwen Stacy,Good Characters,Female Characters,Deceased Characters,384,Energy.Projection,1
+492,Commander Medusa,Good Characters,Female Characters,Living Characters,382,Energy.Projection,1
+493,Sabretooth,Bad Characters,Male Characters,Living Characters,382,Energy.Projection,1
+494,Magik,Neutral Characters,Female Characters,Living Characters,380,Energy.Projection,6
+495,Red Skull,Bad Characters,Male Characters,Deceased Characters,376,Energy.Projection,1
+496,Banshee,Neutral Characters,Male Characters,Living Characters,374,Energy.Projection,5
+497,Toro,Good Characters,Male Characters,Living Characters,373,Energy.Projection,5
+498,The Watcher,Good Characters,Male Characters,Deceased Characters,373,Energy.Projection,7
+499,Thanos,Bad Characters,Male Characters,Living Characters,306,Energy.Projection,6
+500,Nova,Good Characters,Male Characters,Deceased Characters,373,Energy.Projection,6
+501,Spider-Man,Good Characters,Male Characters,Living Characters,4043,Fighting.Skills,4
+502,Captain America,Good Characters,Male Characters,Living Characters,3360,Fighting.Skills,6
+503,Wolverine,Neutral Characters,Male Characters,Living Characters,3061,Fighting.Skills,7
+504,Iron Man,Good Characters,Male Characters,Living Characters,2961,Fighting.Skills,4
+505,Thor,Good Characters,Male Characters,Living Characters,2258,Fighting.Skills,5
+506,The Thing,Good Characters,Male Characters,Living Characters,2255,Fighting.Skills,5
+507,Mr Fantastic,Good Characters,Male Characters,Living Characters,2072,Fighting.Skills,3
+508,Hulk,Good Characters,Male Characters,Living Characters,2017,Fighting.Skills,4
+509,Cyclops,Neutral Characters,Male Characters,Living Characters,1955,Fighting.Skills,4
+510,Human Torch,Good Characters,Male Characters,Living Characters,1934,Fighting.Skills,3
+511,Beast,Good Characters,Male Characters,Living Characters,1825,Fighting.Skills,4
+512,Invisible Woman,Good Characters,Female Characters,Living Characters,1713,Fighting.Skills,3
+513,Sub-Mariner,Neutral Characters,Male Characters,Living Characters,1528,Fighting.Skills,4
+514,Storm,Good Characters,Female Characters,Living Characters,1512,Fighting.Skills,4
+515,Hawkeye,Good Characters,Male Characters,Living Characters,1394,Fighting.Skills,6
+516,Daredevil,Good Characters,Male Characters,Living Characters,1338,Fighting.Skills,5
+517,Doctor Strange,Good Characters,Male Characters,Living Characters,1307,Fighting.Skills,6
+518,Mary Jane Watson,Good Characters,Female Characters,Living Characters,1304,Fighting.Skills,2
+519,John Jonah Jameson,Neutral Characters,Male Characters,Living Characters,1266,Fighting.Skills,3
+520,Iceman,Good Characters,Male Characters,Living Characters,1265,Fighting.Skills,4
+521,Hank Pym,Good Characters,Male Characters,Living Characters,1237,Fighting.Skills,3
+522,Charles Xavier,Good Characters,Male Characters,Deceased Characters,1233,Fighting.Skills,3
+523,Angel/Archangel,Good Characters,Male Characters,Living Characters,1230,Fighting.Skills,4
+524,Colossus,Good Characters,Male Characters,Living Characters,1162,Fighting.Skills,4
+525,Scarlet Witch,Good Characters,Female Characters,Living Characters,1161,Fighting.Skills,3
+526,Nicholas Fury,Neutral Characters,Male Characters,Living Characters,1137,Fighting.Skills,6
+527,The Wasp,Good Characters,Female Characters,Living Characters,1120,Fighting.Skills,4
+528,Jean Grey,Good Characters,Female Characters,Deceased Characters,1107,Fighting.Skills,4
+529,Black Widow,Good Characters,Female Characters,Living Characters,1050,Fighting.Skills,6
+530,Nightcrawler,Good Characters,Male Characters,Living Characters,1047,Fighting.Skills,3
+531,Vision,Good Characters,Male Characters,Living Characters,1007,Fighting.Skills,3
+532,Aunt May,Good Characters,Female Characters,Living Characters,1000,Fighting.Skills,1
+533,Kitty Pryde,Good Characters,Female Characters,Living Characters,886,Fighting.Skills,5
+534,Captain Marvel,Good Characters,Female Characters,Living Characters,881,Fighting.Skills,4
+535,She Hulk,Good Characters,Female Characters,Living Characters,881,Fighting.Skills,4
+536,Black King,Neutral Characters,Female Characters,Living Characters,880,Fighting.Skills,3
+537,Punisher,Neutral Characters,Male Characters,Living Characters,878,Fighting.Skills,6
+538,Luke Cage,Good Characters,Male Characters,Living Characters,856,Fighting.Skills,4
+539,Rogue,Good Characters,Female Characters,Living Characters,850,Fighting.Skills,7
+540,Conan,Neutral Characters,Male Characters,Living Characters,787,Fighting.Skills,5
+541,Joseph Robertson,Good Characters,Male Characters,Living Characters,752,Fighting.Skills,2
+542,Quicksilver,Good Characters,Male Characters,Living Characters,740,Fighting.Skills,4
+543,Hercules,Good Characters,Male Characters,Living Characters,725,Fighting.Skills,4
+544,Dr Doom,Bad Characters,Male Characters,Living Characters,721,Fighting.Skills,4
+545,Magneto,Neutral Characters,Male Characters,Living Characters,709,Fighting.Skills,4
+546,Psylocke,Neutral Characters,Female Characters,Living Characters,708,Fighting.Skills,6
+547,Silver Surfer,Good Characters,Male Characters,Living Characters,696,Fighting.Skills,2
+548,Green Goblin,Bad Characters,Male Characters,Living Characters,692,Fighting.Skills,3
+549,Agent Anti-Venom,Good Characters,Male Characters,Living Characters,689,Fighting.Skills,3
+550,Wonder Man,Good Characters,Male Characters,Living Characters,686,Fighting.Skills,4
+551,Canonball,Good Characters,Male Characters,Living Characters,657,Fighting.Skills,4
+552,Winter Soldier,Good Characters,Male Characters,Living Characters,641,Fighting.Skills,6
+553,Gambit,Good Characters,Male Characters,Living Characters,636,Fighting.Skills,4
+554,Iron Fist,Good Characters,Male Characters,Living Characters,618,Fighting.Skills,6
+555,Cable,Neutral Characters,Male Characters,Living Characters,612,Fighting.Skills,6
+556,Betty Brant,Good Characters,Female Characters,Living Characters,599,Fighting.Skills,3
+557,Rick Jones,Good Characters,Male Characters,Living Characters,590,Fighting.Skills,4
+558,Edwin Jarvis,Good Characters,Male Characters,Living Characters,567,Fighting.Skills,3
+559,Havok,Good Characters,Male Characters,Living Characters,558,Fighting.Skills,3
+560,Hellcat,Good Characters,Female Characters,Living Characters,550,Fighting.Skills,5
+561,Human Torch (Android),Good Characters,Male Characters,Living Characters,548,Fighting.Skills,4
+562,Loki,Neutral Characters,Genderfluid Characters,Living Characters,532,Fighting.Skills,3
+563,Franklin Nelson,Good Characters,Male Characters,Living Characters,528,Fighting.Skills,2
+564,Captain Britain,Good Characters,Male Characters,Living Characters,528,Fighting.Skills,4
+565,Otto Octavius,Neutral Characters,Male Characters,Deceased Characters,526,Fighting.Skills,4
+566,James Rhodes,Good Characters,Male Characters,Living Characters,525,Fighting.Skills,4
+567,Dum-Dum Dugan,Good Characters,Male Characters,Deceased Characters,517,Fighting.Skills,4
+568,Crystal,Good Characters,Female Characters,Living Characters,512,Fighting.Skills,3
+569,Falcon,Good Characters,Male Characters,Living Characters,512,Fighting.Skills,4
+570,Kingpin,Bad Characters,Male Characters,Living Characters,503,Fighting.Skills,5
+571,All-Father Odin,Neutral Characters,Male Characters,Living Characters,502,Fighting.Skills,4
+572,Deadpool,Neutral Characters,Male Characters,Living Characters,500,Fighting.Skills,6
+573,Black Knight,Good Characters,Male Characters,Living Characters,478,Fighting.Skills,5
+574,Harry Osborn,Good Characters,Male Characters,Living Characters,474,Fighting.Skills,2
+575,Powerhouse,Good Characters,Male Characters,Living Characters,473,Fighting.Skills,2
+576,Spider-Woman,Good Characters,Female Characters,Living Characters,471,Fighting.Skills,4
+577,Citizen X,Good Characters,Male Characters,Living Characters,464,Fighting.Skills,4
+578,Wolsbane,Good Characters,Female Characters,Living Characters,448,Fighting.Skills,3
+579,Red She-Hulk,Good Characters,Female Characters,Living Characters,446,Fighting.Skills,3
+580,Polaris,Good Characters,Female Characters,Living Characters,433,Fighting.Skills,3
+581,Kid Colt,,Male Characters,Deceased Characters,429,Fighting.Skills,4
+582,Johnathon Blaze,Good Characters,Male Characters,Living Characters,426,Fighting.Skills,2
+583,Lady Sif,Good Characters,Female Characters,Living Characters,422,Fighting.Skills,5
+584,Red Hulk,Neutral Characters,Male Characters,Living Characters,415,Fighting.Skills,4
+585,Jubilee,Good Characters,Female Characters,Living Characters,408,Fighting.Skills,3
+586,Volstagg,Good Characters,Male Characters,Living Characters,406,Fighting.Skills,4
+587,Balder the Brave,Good Characters,Male Characters,Deceased Characters,403,Fighting.Skills,4
+588,Galactus,Neutral Characters,Male Characters,Living Characters,390,Fighting.Skills,2
+589,Moonstar,Good Characters,Female Characters,Living Characters,388,Fighting.Skills,4
+590,Moon Knight,Good Characters,Male Characters,Living Characters,387,Fighting.Skills,4
+591,Gwen Stacy,Good Characters,Female Characters,Deceased Characters,384,Fighting.Skills,1
+592,Commander Medusa,Good Characters,Female Characters,Living Characters,382,Fighting.Skills,4
+593,Sabretooth,Bad Characters,Male Characters,Living Characters,382,Fighting.Skills,6
+594,Magik,Neutral Characters,Female Characters,Living Characters,380,Fighting.Skills,4
+595,Red Skull,Bad Characters,Male Characters,Deceased Characters,376,Fighting.Skills,6
+596,Banshee,Neutral Characters,Male Characters,Living Characters,374,Fighting.Skills,4
+597,Toro,Good Characters,Male Characters,Living Characters,373,Fighting.Skills,4
+598,The Watcher,Good Characters,Male Characters,Deceased Characters,373,Fighting.Skills,1
+599,Thanos,Bad Characters,Male Characters,Living Characters,306,Fighting.Skills,4
+600,Nova,Good Characters,Male Characters,Deceased Characters,373,Fighting.Skills,4
