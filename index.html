@@ -29,7 +29,7 @@
       <hr class="my-4">
       <p>I have used <b>Tableau Desktop 2018.3</b>
         to generate the visualizations</p>
-      <p>I have used the coolor-blind friendly palette that Tableau 2018.3 offers</p>
+      <p>I have used the color-blind friendly palette that Tableau 2018.3 offers</p>
       <p>For the website, I have used <a href="https://bootswatch.com/lux/">this</a> theme</p>
       
     </div>
@@ -38,7 +38,6 @@
     <div class="card-header">Data Sources</div>
       <div class="card-body card-body-custom">
         <h4 class="card-title">The Data Sources used are listed below:</h4>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
         <div class="list-group">
           <a href="https://github.com/fivethirtyeight/data/blob/master/comic-characters/marvel-wikia-data.csv" class="list-group-item list-group-item-action">
             Marvel comic characters dataset
@@ -63,14 +62,14 @@
         </p>
         <div class="list-group">
           <p class="list-group-item list-group-item-action">
-            Get an overview of the popularity of comic characters based on their Character Alignment and Sex
+            How is the popularity of comic characters related to their Character Alignment and Sex?
           </p>
           <p class="list-group-item list-group-item-action">
-            Explore the popularity of comic characters by Character Alignment, Sex and Alive field (whether the character
-             is alive or not)    
+            How is the popularity of comic characters impacted by Character Alignment, Sex and Alive field (whether the character
+             is alive or not) - Take a deeper look    
           </p>
           <p class="list-group-item list-group-item-action">
-              Explore the factors that affect Popularity - Strength, Durability, Intelligence, and Speed 
+              What are the factors which affect Popularity - Strength, Durability, Intelligence, and Speed ?
           </p>
           <p class="list-group-item list-group-item-action">
               Who are the most powerful comic characters? - Which of them are super villains?
@@ -106,7 +105,12 @@
         <br>
         <div class="list-group">
             <p class="list-group-item list-group-item-action active">
-              Conclusions from the above plot:
+              Information and Conclusions from the above plot:
+            </p>
+            <p class="list-group-item list-group-item-action">
+                The Bar Charts provide an overview of the popularity of the characters based on their Character Alignment and Sex. 
+                It plots each character on the X axis and the Appearances on the Y axis. 
+                Sex and Character Alignment are represented by colors. 
             </p>
             <p class="list-group-item list-group-item-action">
               Most comic characters in our dataset are male 
@@ -124,14 +128,18 @@
     <div class="card">
     <div class="card-header">Visualization 2</div>
       <div class="card-body card-body-custom">
-        <h4 class="card-title">Stacked Bar Chart to understand how Character Alignment and Sex impact Popularity</h4>
+        <h4 class="card-title">Stacked Bar Chart to understand how Character Alignment,Sex and Alive fields impact Popularity</h4>
 
         <div class='tableauPlaceholder' id='viz1547169224560' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WX&#47;WXZWYKS3H&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;WXZWYKS3H' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WX&#47;WXZWYKS3H&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1547169224560');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1000px';vizElement.style.height='827px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
         <br>
         <div class="list-group">
             <p class="list-group-item list-group-item-action active">
-              Conclusions from the above plot:
+                Information and Conclusions from the above plot:
             </p>
+            <p class="list-group-item list-group-item-action">
+                Stacked Bar Charts show how the popularity of characters is impacted by character alignment and sex of the character. We plot average number of appearances on the Y axis and Character Alignment on the X axis. The colors represent sex and alive (whether the character is deceased or living) fields respectively.
+
+              </p>
             <p class="list-group-item list-group-item-action">
               There are no popular female villains
             </p>
@@ -144,7 +152,7 @@
 
 
       <div class="card">
-          <div class="card-header">Visualization 3</div>
+          <div class="card-header">Visualization 3.1</div>
             <div class="card-body card-body-custom">
               <h4 class="card-title">Scatter Plots to identify how factors like Strength,
                 Intelligence, Speed and Durability affect Popularity
@@ -154,6 +162,12 @@
               <div class="list-group">
                   <p class="list-group-item list-group-item-action active">
                     Information about the plot and Conclusions from the above plot:
+                  </p>
+                  <p class="list-group-item list-group-item-action"> 
+                      The Scatter Plots plot the number of appearances on the Y axis and different factors like Strength, Intelligence, Fighting Skills and Energy Projection scores on the X axis. Also it makes use of the size of each circle to indicate a third variable like Durability and Speed.
+                    </p>
+                  <p class="list-group-item list-group-item-action">To prevent overfitting some data points have been manually removed from the plot. 
+                    This does not affect the overall trend of the data
                   </p>
                   <p class="list-group-item list-group-item-action">
                       In the above figure, the size of the circles represent Durability (top plot) and
@@ -176,7 +190,7 @@
       </div>
 
       <div class="card">
-          <div class="card-header">Visualization 4</div>
+          <div class="card-header">Visualization 3.2</div>
             <div class="card-body card-body-custom">
               <h4 class="card-title">Scatter Plots to identify how factors like Fighting skills and 
                 Energy Projection skills affect popularity
@@ -187,6 +201,13 @@
                   <p class="list-group-item list-group-item-action active">
                     Information about the plot and Conclusions from the above plot:
                   </p>
+                  <p class="list-group-item list-group-item-action"> 
+                      The Scatter Plots plot the number of appearances on the Y axis and different factors like Strength, Intelligence, Fighting Skills and Energy Projection scores on the X axis. Also it makes use of the size of each circle to indicate a third variable like Durability and Speed.
+                    </p>
+                  <p class="list-group-item list-group-item-action">To prevent overfitting some data points have been manually removed from the plot. 
+                      This does not affect the overall trends and results of the plot and the statistical measures described
+                       below are for the entire dataset 
+                    </p>
                   <p class="list-group-item list-group-item-action">
                       In the above figure, the size of the circles represent Strength score
                     </p>
@@ -215,13 +236,13 @@
       </div>
 
       <div class="card">
-          <div class="card-header">Visualization 5 </div>
+          <div class="card-header">Visualization 4 </div>
             <div class="card-body card-body-custom">
               <h4 class="card-title">
-                Bubble Chart to visulaize the most powerful heros and villains and 
+                Bubble Chart to visulaize the most powerful heroes and villains and 
                 the most powerful male and female characters
               </h4>
-              <div class='tableauPlaceholder' id='viz1547158025782' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DV&#47;DVProjectAnalysis-MostpowerfulcharactersPopularity2&#47;Dashboard5-Whoarethemostpowerfulcomiccharacters&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DVProjectAnalysis-MostpowerfulcharactersPopularity2&#47;Dashboard5-Whoarethemostpowerfulcomiccharacters' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DV&#47;DVProjectAnalysis-MostpowerfulcharactersPopularity2&#47;Dashboard5-Whoarethemostpowerfulcomiccharacters&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1547158025782');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1000px';vizElement.style.height='827px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>              <br>
+              <div class='tableauPlaceholder' id='viz1547204282298' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;3G&#47;3GCDK7DN6&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;3GCDK7DN6' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;3G&#47;3GCDK7DN6&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1547204282298');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1000px';vizElement.style.height='827px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
               <div class="list-group">
                   <p class="list-group-item list-group-item-action active">
                     Information and Conclusions from the above plot:
@@ -253,14 +274,14 @@
                       From the second plot we observe that, of the most powerful characters, only Rogue is the female
                   </p>
                   <p class="list-group-item list-group-item-action">
-                      Another interesting observation from this plot is there are very few female characters who are highly intelligent. Thus the comic world may be geder biased and we kind of intuitively know that the most popular intelligent characters like Tony Stark, Dr. Bruce Banners, Hank Pym are all males.
+                      Another interesting observation from this plot is there are very few female characters who are highly intelligent. Thus the comic world may be gender biased and we kind of intuitively know that the most popular intelligent characters like Tony Stark, Dr. Bruce Banners, Hank Pym are all males.
                   </p>
                 </div>
             </div>
       </div>
 
       <div class="card">
-          <div class="card-header">Visualization 6</div>
+          <div class="card-header">Visualization 5</div>
             <div class="card-body card-body-custom">
               <h4 class="card-title">
                 Packed Bubble Chart to explore how popular the most powerful characters are
@@ -268,10 +289,13 @@
               <p>Now that we have found out who are the most powerful characters in terms of Strength, Intelligence and Speed, it is of interest to explore and find how popular these characters are</p>
               <div class='tableauPlaceholder' id='viz1547158695472' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DV&#47;DVProjectAnalysis-MostpowerfulcharactersPopularity&#47;Dashboard6&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DVProjectAnalysis-MostpowerfulcharactersPopularity&#47;Dashboard6' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DV&#47;DVProjectAnalysis-MostpowerfulcharactersPopularity&#47;Dashboard6&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1547158695472');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1000px';vizElement.style.height='827px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>              <div class="list-group">
               <br>
-                
-                <p class="list-group-item list-group-item-action active">
-                    Conclusions from the above plot:
+              
+              <p class="list-group-item list-group-item-action active">
+                  Information and Conclusions from the above plot:
                   </p>
+                  <p class="list-group-item list-group-item-action">
+                      The size represents the popularity (number of appearances), while the color represents the sex of the character
+                  </p>  
                   <p class="list-group-item list-group-item-action">
                     Even though all the characters in the plot are extremely powerful, none of them, apart from Rogue have good Popularity  
                   </p>
@@ -332,7 +356,7 @@
                     Information and Conclusions from the above plot:
                   </p>
                   <p class="list-group-item list-group-item-action">
-                    This is an interactive data visualization. Users can select superpowers of their interest.
+                      The Word Cloud uses the second dataset and visualizes the most frequently occurring superpowers with greater size. This is an interactive data visualization. Users can select superpowers of their interest.
                     The table will be populated with the superheroes that possess the superpowers that the user has selected
                   </p>
                   <p class="list-group-item list-group-item-action">The highlighter is provided because sometimes the superpower text is too small to be easily 
